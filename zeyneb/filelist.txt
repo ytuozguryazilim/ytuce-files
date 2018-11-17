@@ -1,0 +1,16 @@
+/opt/ytuce-files/zeyneb/BLM2031_Yap%C4%B1salProglama_20181/Hafta1_Syllabus_CreviewPart1.pdf https://www.ce.yildiz.edu.tr/personal/zeyneb/file/32866/Hafta1_Syllabus_CreviewPart1.pdf
+/opt/ytuce-files/zeyneb/BLM2031_Yap%C4%B1salProglama_20181/hafta2-6_kodlar.zip https://www.ce.yildiz.edu.tr/personal/zeyneb/file/33426/hafta2-6_kodlar.zip
+/opt/ytuce-files/zeyneb/BLM2031_Yap%C4%B1salProglama_20181/Hafta2_CreviewPart2_storage_classes.pdf https://www.ce.yildiz.edu.tr/personal/zeyneb/file/32992/Hafta2_CreviewPart2_storage_classes.pdf
+/opt/ytuce-files/zeyneb/BLM2031_Yap%C4%B1salProglama_20181/Hafta3_storage_classes_+Arrays_pointers.pdf https://www.ce.yildiz.edu.tr/personal/zeyneb/file/33043/Hafta3_storage_classes_+Arrays_pointers.pdf
+/opt/ytuce-files/zeyneb/BLM2031_Yap%C4%B1salProglama_20181/hafta4_codes.zip https://www.ce.yildiz.edu.tr/personal/zeyneb/file/33149/hafta4_codes.zip
+/opt/ytuce-files/zeyneb/BLM2031_Yap%C4%B1salProglama_20181/Hafta4_dyn_mem_alloc_functions.pdf https://www.ce.yildiz.edu.tr/personal/zeyneb/file/33145/Hafta4_dyn_mem_alloc_functions.pdf
+/opt/ytuce-files/zeyneb/BLM2031_Yap%C4%B1salProglama_20181/Hafta5_func_pointers_structures.pdf https://www.ce.yildiz.edu.tr/personal/zeyneb/file/33265/Hafta5_func_pointers_structures.pdf
+/opt/ytuce-files/zeyneb/BLM2031_Yap%C4%B1salProglama_20181/Hafta6_unionsContinued_linkedList.pdf https://www.ce.yildiz.edu.tr/personal/zeyneb/file/33410/Hafta6_unionsContinued_linkedList.pdf
+/opt/ytuce-files/zeyneb/BLM2031_Yap%C4%B1salProglama_20181/hafta7_codes.zip https://www.ce.yildiz.edu.tr/personal/zeyneb/file/33505/hafta7_codes.zip
+/opt/ytuce-files/zeyneb/BLM2031_Yap%C4%B1salProglama_20181/Hafta7_Preprocessor_Makefile.pdf https://www.ce.yildiz.edu.tr/personal/zeyneb/file/33504/Hafta7_Preprocessor_Makefile.pdf
+/opt/ytuce-files/zeyneb/BLM2031_Yap%C4%B1salProglama_20181/hafta8_codes.zip https://www.ce.yildiz.edu.tr/personal/zeyneb/file/33619/hafta8_codes.zip
+/opt/ytuce-files/zeyneb/BLM2031_Yap%C4%B1salProglama_20181/Yap%C4%B1salProgramlamaLabGrups.pdf https://www.ce.yildiz.edu.tr/personal/zeyneb/file/33395/Yap%C4%B1salProgramlamaLabGrups.pdf
+/opt/ytuce-files/zeyneb/BLM2051_Seminer_20181/Hafta1_BLM2051_Seminer_ZK.pdf https://www.ce.yildiz.edu.tr/personal/zeyneb/file/33005/Hafta1_BLM2051_Seminer_ZK.pdf
+/opt/ytuce-files/zeyneb/BLM2051_Seminer_20181/Hafta2_BLM2051-Seminer-ZK.pdf https://www.ce.yildiz.edu.tr/personal/zeyneb/file/33008/Hafta2_BLM2051-Seminer-ZK.pdf
+/opt/ytuce-files/zeyneb/BLM2051_Seminer_20181/Hafta3_BLM2051-Seminer-ZK.pdf https://www.ce.yildiz.edu.tr/personal/zeyneb/file/33059/Hafta3_BLM2051-Seminer-ZK.pdf
+/opt/ytuce-files/zeyneb/publications.pdf https://www.ce.yildiz.edu.tr/personal/zeyneb/file/29404/publications.pdf

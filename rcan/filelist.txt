@@ -1,0 +1,15 @@
+/opt/ytuce-files/rcan/A%C4%9F+Teknolojileri/Bind9Setup/BindSetup.zip https://www.ce.yildiz.edu.tr/personal/rcan/file/30608/BindSetup.zip
+/opt/ytuce-files/rcan/A%C4%9F+Teknolojileri/DNS_lab/db.example.com https://www.ce.yildiz.edu.tr/personal/rcan/file/29164/db.example.com
+/opt/ytuce-files/rcan/A%C4%9F+Teknolojileri/DNS_lab/dig.png https://www.ce.yildiz.edu.tr/personal/rcan/file/29160/dig.png
+/opt/ytuce-files/rcan/A%C4%9F+Teknolojileri/DNS_lab/exportDNS.pcapng https://www.ce.yildiz.edu.tr/personal/rcan/file/29156/exportDNS.pcapng
+/opt/ytuce-files/rcan/A%C4%9F+Teknolojileri/DNS_lab/named.conf.local https://www.ce.yildiz.edu.tr/personal/rcan/file/29168/named.conf.local
+/opt/ytuce-files/rcan/A%C4%9F+Teknolojileri/DNS_lab/named.conf.option https://www.ce.yildiz.edu.tr/personal/rcan/file/29172/named.conf.option
+/opt/ytuce-files/rcan/Operating+Systems/Linux+Kernel+Module+Programming+-+Device+Drivers/Basic+Kernel+Module/basicKernelModule.c https://www.ce.yildiz.edu.tr/personal/rcan/file/26521/basicKernelModule.c
+/opt/ytuce-files/rcan/Operating+Systems/Linux+Kernel+Module+Programming+-+Device+Drivers/Basic+Kernel+Module/Makefile https://www.ce.yildiz.edu.tr/personal/rcan/file/26531/Makefile
+/opt/ytuce-files/rcan/Operating+Systems/Linux+Kernel+Module+Programming+-+Device+Drivers/KernelModuleProgramming.odp https://www.ce.yildiz.edu.tr/personal/rcan/file/26471/KernelModuleProgramming.odp
+/opt/ytuce-files/rcan/Operating+Systems/Linux+Kernel+Module+Programming+-+Device+Drivers/Parallel+Port+Device+Driver/Makefile https://www.ce.yildiz.edu.tr/personal/rcan/file/26501/Makefile
+/opt/ytuce-files/rcan/Operating+Systems/Linux+Kernel+Module+Programming+-+Device+Drivers/Parallel+Port+Device+Driver/pardrive.c https://www.ce.yildiz.edu.tr/personal/rcan/file/26491/pardrive.c
+/opt/ytuce-files/rcan/Operating+Systems/Shell+Scipting-User%26Management/LinuxUser%26FileManagement.pdf https://www.ce.yildiz.edu.tr/personal/rcan/file/30067/LinuxUser%26FileManagement.pdf
+/opt/ytuce-files/rcan/Operating+Systems/Shell+Scipting-User%26Management/LinuxUser%26FileManagement.pdf https://www.ce.yildiz.edu.tr/personal/rcan/file/30156/LinuxUser%26FileManagement.pdf
+/opt/ytuce-files/rcan/Operating+Systems/Shell+Scipting-User%26Management/shell_tutorial.pdf https://www.ce.yildiz.edu.tr/personal/rcan/file/30066/shell_tutorial.pdf
+/opt/ytuce-files/rcan/Security/DVWA_Setup.pdf https://www.ce.yildiz.edu.tr/personal/rcan/file/30355/DVWA_Setup.pdf

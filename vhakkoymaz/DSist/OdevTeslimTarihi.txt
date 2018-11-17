@@ -1,0 +1,3 @@
+Çalýþma		Atanma Tarihi		Teslim Tarihi	Teslim Yer ve Zaman
+-------		-------------		-------------	-------------------
+1) Ödev1	20/10/2017		27/10/2017	D109 Ders saati baþý

@@ -1,0 +1,24 @@
+/opt/ytuce-files/pinar/VT_2016/company_db.rar https://www.ce.yildiz.edu.tr/personal/pinar/file/23992/company_db.rar
+/opt/ytuce-files/pinar/VT_2016/FORM_uyg.rar https://www.ce.yildiz.edu.tr/personal/pinar/file/26371/FORM_uyg.rar
+/opt/ytuce-files/pinar/VT_2016/jdbcv4.jar https://www.ce.yildiz.edu.tr/personal/pinar/file/26381/jdbcv4.jar
+/opt/ytuce-files/pinar/VT_2016/KONSOL_Ornek.rar https://www.ce.yildiz.edu.tr/personal/pinar/file/26361/KONSOL_Ornek.rar
+/opt/ytuce-files/pinar/VT_2016/KONSOL_Sorular.rar https://www.ce.yildiz.edu.tr/personal/pinar/file/26451/KONSOL_Sorular.rar
+/opt/ytuce-files/pinar/VT_2016/LabHafta1.pdf https://www.ce.yildiz.edu.tr/personal/pinar/file/24442/LabHafta1.pdf
+/opt/ytuce-files/pinar/VT_2016/LabHafta2.pdf https://www.ce.yildiz.edu.tr/personal/pinar/file/24452/LabHafta2.pdf
+/opt/ytuce-files/pinar/VT_2016/Pdf.rar https://www.ce.yildiz.edu.tr/personal/pinar/file/27701/Pdf.rar
+/opt/ytuce-files/pinar/VT_2016/ProjeGruplar%C4%B1.pdf https://www.ce.yildiz.edu.tr/personal/pinar/file/24472/ProjeGruplar%C4%B1.pdf
+/opt/ytuce-files/pinar/VT_2016/record_cursor_trigger+kod.doc https://www.ce.yildiz.edu.tr/personal/pinar/file/30208/record_cursor_trigger+kod.doc
+/opt/ytuce-files/pinar/VT_2016/Veri+Taban%C4%B1+Rapor+1+D%C3%B6k%C3%BCman%C4%B1.pdf https://www.ce.yildiz.edu.tr/personal/pinar/file/24482/Veri+Taban%C4%B1+Rapor+1+D%C3%B6k%C3%BCman%C4%B1.pdf
+/opt/ytuce-files/pinar/VT_2016/VT_Lab1_2016.pptx https://www.ce.yildiz.edu.tr/personal/pinar/file/24021/VT_Lab1_2016.pptx
+/opt/ytuce-files/pinar/VT_2016/VT_Lab1_2016.pptx https://www.ce.yildiz.edu.tr/personal/pinar/file/24021/VT_Lab1_2016.pptx/opt/ytuce-files/pinar/VT_2016/VT_Lab7.pptx https://www.ce.yildiz.edu.tr/personal/pinar/file/27031/VT_Lab7.pptx
+/opt/ytuce-files/pinar/VT_2016/VT_Lab2_2016.pptx https://www.ce.yildiz.edu.tr/personal/pinar/file/24462/VT_Lab2_2016.pptx
+/opt/ytuce-files/pinar/VT_2016/VT_Lab4_2016.pptx https://www.ce.yildiz.edu.tr/personal/pinar/file/25382/VT_Lab4_2016.pptx
+/opt/ytuce-files/pinar/VT_2016/VT_Lab5_2016.pptx https://www.ce.yildiz.edu.tr/personal/pinar/file/25392/VT_Lab5_2016.pptx
+/opt/ytuce-files/pinar/VT_2016/VT_Lab7.pptx https://www.ce.yildiz.edu.tr/personal/pinar/file/27031/VT_Lab7.pptx
+/opt/ytuce-files/pinar/VT_2016/VT_Lab8.pptx https://www.ce.yildiz.edu.tr/personal/pinar/file/27021/VT_Lab8.pptx
+/opt/ytuce-files/pinar/Yaz%C4%B1l%C4%B1m+Kalitesi/%C3%96rnek+-+Test+Case++Bug+Report+anlat%C4%B1m.xlsx https://www.ce.yildiz.edu.tr/personal/pinar/file/26211/%C3%96rnek+-+Test+Case++Bug+Report+anlat%C4%B1m.xlsx
+/opt/ytuce-files/pinar/Yaz%C4%B1l%C4%B1m+Kalitesi/Test+Case++Bug+Report.xlsx https://www.ce.yildiz.edu.tr/personal/pinar/file/26201/Test+Case++Bug+Report.xlsx
+/opt/ytuce-files/pinar/Yaz%C4%B1l%C4%B1m+Kalitesi/Test+Plan.doc https://www.ce.yildiz.edu.tr/personal/pinar/file/26181/Test+Plan.doc
+/opt/ytuce-files/pinar/Yaz%C4%B1l%C4%B1m+Kalitesi/TKlavye.zip https://www.ce.yildiz.edu.tr/personal/pinar/file/26171/TKlavye.zip
+/opt/ytuce-files/pinar/YM+2016-2017/Proje+Konular%C4%B1.pdf https://www.ce.yildiz.edu.tr/personal/pinar/file/28836/Proje+Konular%C4%B1.pdf
+/opt/ytuce-files/pinar/YM+2016-2017/VioletUML-0.21.1.jar https://www.ce.yildiz.edu.tr/personal/pinar/file/28694/VioletUML-0.21.1.jar

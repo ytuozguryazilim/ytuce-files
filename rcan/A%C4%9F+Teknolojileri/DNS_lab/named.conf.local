@@ -1,0 +1,5 @@
+zone "example.com" IN {
+    type master;
+    file "/var/lib/bind/db.example.com";
+    allow-transfer { 10.4.0.45; };
+};

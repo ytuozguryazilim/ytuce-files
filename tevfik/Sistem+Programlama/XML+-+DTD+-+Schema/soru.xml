@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<araclar>
+	<arac>
+		<marka>Hyundai</marka>
+		<model yil="2011">Ix20 1.4 CRDI -  77 PS</model>
+		<motor>
+			<hacim>1396</hacim>
+			<vites tip="Manual">6</vites>
+			<yakit>Dizel</yakit>
+		</motor>
+		<fiyat kur="USD">25500</fiyat>
+	</arac>
+	<arac>
+		<marka>VW</marka>
+		<model yil="2012">Jetta 1.4 TSI 122 PS Tiptr. DSG</model>
+		<motor>
+			<hacim>1390</hacim>
+			<vites tip="DSG">7</vites>
+			<yakit>Benzin</yakit>
+		</motor>
+		<fiyat kur="Avro">25500</fiyat>
+	</arac>
+	<arac>
+		<marka>Seat</marka>
+		<model yil="2012">Ibiza 1.2.TSI </model>
+		<motor>
+			<hacim>1197</hacim>
+			<vites tip="Manual">5</vites>
+			<yakit>Benzin</yakit>
+		</motor>
+		<fiyat kur="USD">18300</fiyat>
+	</arac>
+	<arac>
+		<marka>Opel</marka>
+		<model yil="2012">Yeni Astra HB - 1.4 -140HP</model>
+		<motor>
+			<hacim>1364</hacim>
+			<vites tip="Easytronic">6</vites>
+			<yakit>Benzin</yakit>
+		</motor>
+		<fiyat kur="TL">53428</fiyat>
+	</arac>
+</araclar>

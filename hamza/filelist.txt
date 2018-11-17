@@ -1,0 +1,6 @@
+/opt/ytuce-files/hamza/0Su8LXNS16A.mp3 https://www.ce.yildiz.edu.tr/personal/hamza/file/612/0Su8LXNS16A.mp3
+/opt/ytuce-files/hamza/ders1.PDF https://www.ce.yildiz.edu.tr/personal/hamza/file/1007/ders1.PDF
+/opt/ytuce-files/hamza/Elektronik_Grup_List.xlsx https://www.ce.yildiz.edu.tr/personal/hamza/file/2704/Elektronik_Grup_List.xlsx
+/opt/ytuce-files/hamza/Probabilistic_Robotic/ders1.PDF https://www.ce.yildiz.edu.tr/personal/hamza/file/1011/ders1.PDF
+/opt/ytuce-files/hamza/Probabilistic_Robotic/olas%C4%B1l%C4%B1kgen.jpg https://www.ce.yildiz.edu.tr/personal/hamza/file/1003/olas%C4%B1l%C4%B1kgen.jpg
+/opt/ytuce-files/hamza/Probabilistic_Robotic/olasilik.jpg https://www.ce.yildiz.edu.tr/personal/hamza/file/1004/olasilik.jpg

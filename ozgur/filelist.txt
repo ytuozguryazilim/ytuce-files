@@ -1,0 +1,8 @@
+/opt/ytuce-files/ozgur/Eticaret/1.rar https://www.ce.yildiz.edu.tr/personal/ozgur/file/20601/1.rar
+/opt/ytuce-files/ozgur/Eticaret/2.rar https://www.ce.yildiz.edu.tr/personal/ozgur/file/19322/2.rar
+/opt/ytuce-files/ozgur/Eticaret/3.rar https://www.ce.yildiz.edu.tr/personal/ozgur/file/19332/3.rar
+/opt/ytuce-files/ozgur/Eticaret/4.rar https://www.ce.yildiz.edu.tr/personal/ozgur/file/20611/4.rar
+/opt/ytuce-files/ozgur/Eticaret/5.rar https://www.ce.yildiz.edu.tr/personal/ozgur/file/20782/5.rar
+/opt/ytuce-files/ozgur/Eticaret/6.rar https://www.ce.yildiz.edu.tr/personal/ozgur/file/21111/6.rar
+/opt/ytuce-files/ozgur/Eticaret/7.rar https://www.ce.yildiz.edu.tr/personal/ozgur/file/21242/7.rar
+/opt/ytuce-files/ozgur/Eticaret/8.rar https://www.ce.yildiz.edu.tr/personal/ozgur/file/21892/8.rar

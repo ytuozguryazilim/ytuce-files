@@ -1,0 +1,241 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+    <head>
+      
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" >  
+    <script type="text/javascript" src="/assets/817cf91f/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/817cf91f/jquery.yiiactiveform.js"></script>
+<script type="text/javascript" src="/assets/817cf91f/jui/js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/script/xbreadcrumbs/xbreadcrumbs.js"></script>
+<script type="text/javascript" src="/script/toggleval/toggleval.js"></script>
+<script type="text/javascript" src="/script/ctrotator/jquery.ctrotator.js"></script>
+<script type="text/javascript" src="/script/coloranimations/coloranimations.js"></script>
+<script type="text/javascript" src="/script/highlight/jquery.highlight.js"></script>
+<script type="text/javascript" src="/script/global/global.js"></script>
+<script type="text/javascript" src="/themes/default/script/ui.js"></script>
+<title>Y.T.Ü. Bilgisayar Mühendisliği Bölümü Web Sitesi</title>
+    <link rel="stylesheet" href="/themes/default/css/blueprint/screen.css" type="text/css" media="screen, projection" />
+    <link rel="stylesheet" href="/themes/default/css/blueprint/print.css" type="text/css" media="print" />
+    <!--[if IE]>
+        <link rel="stylesheet" href="/themes/default/css/blueprint/ie.css" type="text/css" media="screen, projection" />
+    <![endif]-->
+    <!--[if lt IE 7]>
+    <script type="text/javascript" src="/script/pngfix/pngfix.js"></script>
+    <![endif]-->
+    <!--[if lt IE 9]>
+        <script type=\"text/javascript\" src=\"/script/ie9/IE9.js\"></script>
+    <![endif]-->
+    <link rel="stylesheet" href="/themes/default/css/main.css" type="text/css" media="screen, projection" />
+    <!--[if lt IE 8]>
+        <link rel="stylesheet" href="/themes/default/css/ie6-7.css" type="text/css" media="screen, projection" />
+    <![endif]-->
+    <!--[if lt IE 7]>
+        <link rel="stylesheet" href="/themes/default/css/ie6.css" type="text/css" media="screen, projection" />
+    <![endif]-->
+</head>
+<body>
+<div id="header">
+	<div id="headerbody">
+		<div id="headermenu">
+						
+    		<a href="/personal/mozgur/file/24581/lab-ogrenci-listesi-NDK-2016_2017-Grup-1.xls?lang=tr">
+			<div class="headermenuitem1">				
+				<div class="headermenuitemimage"></div>							
+			</div>			
+			</a>			
+			<a href="/personal/mozgur/file/24581/lab-ogrenci-listesi-NDK-2016_2017-Grup-1.xls?lang=en">			
+			<div class="headermenuitem2">				
+				<div class="headermenuitemimage"></div>							
+			</div>			
+			</a>
+			<div class="headermenuitemsep">|</div>
+							<a href="/login">
+				<div class="headermenuitem3">
+					<div class="headermenuitemimage"></div>
+					<div class="headermenuitemname">Kullanıcı Girişi</div>
+				</div>			
+				</a>
+					</div>
+		<div id="headersearch">
+			<input id="mainsearch" type="text" />
+		</div>
+	</div>
+</div>
+<div id="main">
+	<div id="mainbackground">						
+	</div>
+	<div id="maintop">
+		<div id="ytulogo"></div>
+		<div id="ceurl"></div>
+		<div id="sitetitle">Y.T.Ü. Bilgisayar Mühendisliği Bölümü Web Sitesi</div>
+		<div id="mainmenu">			         
+	        <ul id="mainmenuitems">
+	        			        	<li><a href="/"><div class="mainmenuitemicon1"></div>Ana Sayfa</a></li> 
+		            <li><a href="/subsites"><div class="mainmenuitemicon2"></div>Kişiler</a></li> 
+		            <li><a href="/contact"><div class="mainmenuitemicon3"></div>İletişim</a></li> 
+		        	        </ul>         
+		</div>
+	</div>
+		<div class="mainbodyframe">
+		<div id="mainbody">
+			<div id="contentcolumn">
+				<div id="contentcolumnbody">
+					<div id="filepasswordform">
+	<ul class="breadcrumbs"> 
+		<li><a href="/personal/mozgur/news" class="home">Ana Sayfa</a></li>  
+		<li><a href="/personal/mozgur/file">Dosyalar</a></li>		
+		<li class="current"><a href="#">Şifre Kontrolü</a></li> 
+	</ul>
+    <h3>Şifre Giriniz</h3>
+    <form enctype="multipart/form-data" id="Password" action="/personal/mozgur/file/24581/lab-ogrenci-listesi-NDK-2016_2017-Grup-1.xls" method="post">
+    <div class="formitem"><label for="FilePasswordForm_password" class="required">Şifre <span class="required">*</span></label><input class="autofocus" name="FilePasswordForm[password]" id="FilePasswordForm_password" type="password" maxlength="32" value="" /><div id="FilePasswordForm_password_em_" class="errorMessage" style="display:none"></div></div>
+    <div class="formsubmititem">
+        <input type="submit" name="yt0" value="Gönder" />        
+    </div>
+    </form><script type="text/javascript">
+    /*<![CDATA[*/
+    $(function() {
+    	$('.autofocus:first').focus();
+    	});
+    /*]]>*/
+</script>
+</div>				</div>
+			</div>
+			<div id="panels">	
+			<div id="userbox" class="panel">			
+				<div class="panelbody">
+					<div class="panelcontent">
+						<div id="userphoto"><img src="https://www.ce.yildiz.edu.tr/user/photo/thumb/51/moc.png"  /></div>
+						<div id="usertitle">Arş. Grv.</div>
+						<div id="userfirstnamelastname">M. Özgür Cingiz</div>						
+						<div id="userposition">ÖYP</div>
+						<div id="userbranch">Yazılım Anabilim Dalı</div>
+					</div>		
+				</div>				
+			</div>
+			<div class="panel">
+				<div class="panelheader">
+					<div class="panelicon2"></div>
+					<h3>Menü</h3>						
+				</div>
+				<div class="panelbody">
+					<div class="panelcontent">
+						<div class="panelmenu ">                    
+		                    <ul>
+		                    	<li><a href="/personal/mozgur">Ana Sayfa</a></li>
+			                    <li><a href="/personal/mozgur/news">Haberler</a></li>		                    			                    
+			                    <li><a href="/personal/mozgur/file">Dosyalar</a></li>
+			                    <li><a href="/personal/mozgur/event">Takvim</a></li>
+			                    <li><a href="/personal/mozgur/contact">İletişim</a></li>
+		                    </ul>
+	                	</div>
+					</div>	
+				</div>				
+			</div>				
+			<div class="panel">
+	<div class="panelheader">
+		<div class="panelicon1"></div>
+		<h3>Maps</h3>						
+	</div>
+	<div class="panelbody">
+		<div class="panelcontent">
+		<div id="clustrmaps-widget"></div><script type="text/javascript">var _clustrmaps = {'url' : 'http://www.ce.yildiz.edu.tr/personal/mozgur', 'user' : 1087409, 'server' : '2', 'id' : 'clustrmaps-widget', 'version' : 1, 'date' : '2014-08-17', 'lang' : 'en', 'corners' : 'square' };(function (){ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = 'http://www2.clustrmaps.com/counter/map.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);})();</script><noscript><a href="http://www2.clustrmaps.com/user/6931097b1"><img src="http://www2.clustrmaps.com/stats/maps-no_clusters/www.ce.yildiz.edu.tr-personal-mozgur-thumb.jpg" alt="Locations of visitors to this page" /></a></noscript>
+	
+		</div>	
+	</div>				
+</div>								
+			</div>									
+		</div>
+	</div>
+	<script type="text/javascript">	
+		/*<![CDATA[*/
+		// User pages layout, start with second item selected
+		var currentmainmenuitem = 1;		
+		/*]]>*/
+	</script>	
+		
+</div>
+<div id="footer">	
+	<div id="footerbody">
+		<div id="footerabout">
+			<h3>Bilgi</h3>
+            <ul>
+                <li><a href="/page/history">Tarihçe</a></li>
+                <li><a href="/page/visionandmission">Vizyon ve Misyon</a></li>
+                <li><a href="/page/education">Eğitim</a></li>
+                <li><a href="/page/staff">Kadro</a></li>
+                <li><a href="/page/labs">Laboratuvarlar</a></li>
+                <li><a href="/page/classrooms">Sınıflar</a></li>
+                <li><a href="/page/commissions">Komisyonlar</a></li>
+            </ul>
+		</div>
+		<div id="footersitemap">
+			<h3>Site Haritası</h3>
+            <ul>
+            	<li><a href="/">Ana Sayfa</a></li>
+                <li><a href="/news">Haberler</a></li>
+                <li><a href="/subsites">Alt Siteler</a></li>                
+                <li><a href="/page/research">Araştırma</a></li>
+                <li><a href="/file">Dosyalar</a></li>
+			<!--	Bu satırı simdilik kaldirdik. 20/10/2017 ATİ
+                <li><a href="/event">Takvim</a></li>
+			-->	
+                <li><a href="/contact">İletişim</a></li>
+            </ul>
+		</div>
+		<div id="footertrivia">		
+			<div id="footertriviacontent">
+							<img src="/content/img/mouse.png">
+				<div id="triviatitle">Fare</div>				
+				<div id="triviatext">İlk bilgisayar faresi 1964 yılında Douglas Engelbart tarafından yapıldı.</div>
+						</div>
+		</div>
+		<div id="footerytunews">
+			<div id="footerytunewsbody">
+				<h3>Yıldız'dan Haberler</h3>
+				<div id="ytunewslogo"></div>
+        		<div id="newsballoon">
+        			<ul id="newsballoonbody"></ul>
+        		</div>
+        	</div>    
+		</div>
+		<div id="footercopyright">© 2017 Yıldız Teknik Üniversitesi Bilgisayar Mühendisliği Bölümü</div>
+		<div id="footerdevelopment"><a href="mailto:zeckon@gmail.com">Web Geliştirme: Burak Doğruöz</a></div>	
+	</div>
+</div>
+<script type="text/javascript">
+	/*<![CDATA[*/	
+	$(function() {
+		// news rotator		
+		/*
+		$.getJSON('/site/ytunews',function(data){			
+		   $('#newsballoonbody').ctRotator(data, {showCount:1});
+		   });
+		   */	
+
+		$('#mainsearch').bind('keyup change', function(ev) {
+					// remove previous search
+			 		$('body').unhighlight();
+			        // pull in the new value
+			        var searchTerm = $(this).val();
+			        // disable highlighting if empty
+			        if ( searchTerm ) {
+			            // highlight the new term
+			            $('body').highlight( searchTerm );
+			        }
+			    });
+								  
+       });
+    
+var searchboxdefault = "Site içi arama";	/*]]>*/
+</script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+$('#Password').yiiactiveform({'attributes':[{'inputID':'FilePasswordForm_password','errorID':'FilePasswordForm_password_em_'}]});
+$("#flashmessage").animate({opacity: 1.0}, 3000).fadeOut("slow");
+});
+/*]]>*/
+</script>
+</body>
+</html>

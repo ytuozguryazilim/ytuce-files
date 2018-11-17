@@ -1,0 +1,4 @@
+/opt/ytuce-files/ahmetd/Lab4b/Lab4_b.pdf https://www.ce.yildiz.edu.tr/personal/ahmetd/file/29312/Lab4_b.pdf
+/opt/ytuce-files/ahmetd/OOP+Lab/telafi_ornek.zip https://www.ce.yildiz.edu.tr/personal/ahmetd/file/28839/telafi_ornek.zip
+/opt/ytuce-files/ahmetd/Programlama+Dilleri/LAB7.zip https://www.ce.yildiz.edu.tr/personal/ahmetd/file/30438/LAB7.zip
+/opt/ytuce-files/ahmetd/Programlama+Dilleri/labfile.zip https://www.ce.yildiz.edu.tr/personal/ahmetd/file/30440/labfile.zip

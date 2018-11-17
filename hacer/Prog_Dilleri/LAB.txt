@@ -1,0 +1,106 @@
+#include <stdio.h>
+#include <stdlib.h>
+#define N 10
+
+typedef enum {
+		SortByCity,
+		SortByTime
+	}SortType;
+void merge(char* [N][2], int, int, int, SortType);
+void mergeSort(char* [N][2], int, int, SortType);
+void mergeSortByTime(char* [N][2], int, int);
+void print(char* [N][2]);
+void scan(char* [N][2]);
+int main(int argc, char *argv[]) {	
+	int i;		
+	char* trips[N][2] = {
+		{"BURSA", "21:00"}, 
+		{"ANTALYA", "10:00"}, 
+		{"BURSA", "11:00"}, 
+		{"IZMIR", "11:00"}, 
+		{"ISTANBUL", "13:00"}, 
+		{"IZMIR", "14:00"}, 
+		{"ANKARA", "11:00"}, 
+		{"ISTANBUL", "15:00"}, 
+		{"ANKARA", "11:30"}, 
+		{"BURSA", "13:00"}
+	};		
+	puts("Siralanmamis matris:\n");
+	print(trips);	
+	puts("Sehre gore sirali\n");
+	mergeSort(trips, 0, N-1, SortByCity);
+	print(trips);	
+	puts("Saatlere gore sirali\n");
+	mergeSortByTime(trips, 0, N-1);
+	print(trips);	
+	return 0;
+}
+void merge(char*T[N][2], int low, int mid, int high, SortType s){	
+	int i = low;
+	int j = mid + 1;
+	int k = 0;     
+    char* tripsBuffer[N][2];    
+    while ((i <= mid) && (j <= high)) {
+        if (strcmp(T[j][s], T[i][s]) > 0){
+            tripsBuffer[k][s] = T[i][s];
+            tripsBuffer[k++][1-s] = T[i++][1-s];            
+    	}
+        else{
+        	tripsBuffer[k][s] = T[j][s];
+            tripsBuffer[k++][1-s] = T[j++][1-s];           
+		}
+    }    
+    while (i <= mid){
+    	tripsBuffer[k][s] = T[i][s];
+        tripsBuffer[k++][1-s] = T[i++][1-s];
+	}  
+    while (j <= high){
+    	tripsBuffer[k][s] = T[j][s];
+        tripsBuffer[k++][1-s] = T[j++][1-s];
+	}  
+    k--;
+    while (k >= 0) {
+        T[low + k][s] = tripsBuffer[k][s];
+        T[low + k][1-s] = tripsBuffer[k][1-s];
+        k--;
+		} 
+}
+void mergeSort(char*T[N][2], int low, int high, SortType s){
+	int m;
+	if (low < high){
+        m = (high + low) / 2;
+        mergeSort(T, low, m, s);
+        mergeSort(T, m + 1, high, s);
+        merge(T, low, m, high, s);
+    }    
+}
+void mergeSortByTime(char*T[N][2], int low, int high){	
+	int i=0;
+	int j = 1;
+    int size;
+    while(i < N-1)
+    {
+		size = 0;
+		
+        while((j < N) && (strcmp(T[i++][0],T[j++][0]) == 0)){
+         	size++;	 
+         	if(j >= N) i++;
+		}
+		size++;
+
+		mergeSort(T,i-size,i-1,SortByTime);				
+    }
+}
+void print(char* trips[N][2]){
+	int i;
+	for(i = 0; i < N; i++){
+		printf("%-10s %s\n", trips[i][0],  trips[i][1]);
+	}
+	printf("\n\n");
+}
+
+
+
+
+
+

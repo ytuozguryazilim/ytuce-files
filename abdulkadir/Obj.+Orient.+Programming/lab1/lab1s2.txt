@@ -1,0 +1,29 @@
+MIL YÖNETÝM SÝSTEMÝ:
+Elektronik bilet hizmeti veren bir havayolu þirketi için mil puanlarýný hesaplayan bir yazýlým tasarlanacaktýr.
+Sistemde her bir müþterinin id, ad, soyad, toplamMil ve ucusSayisi bilgileri saklanacaktýr.
+Kiþinin ucusSayisi bilgisine göre mil puaný kazanma iþlemi için aþaðýdaki tarife uygulanacaktýr.
+
+Standart:  300 Mil,     Uçuþ Sayýsý <10
+Gold:      400 Mil 10 <= Uçuþ Sayýsý <20
+Platinium: 500 Mil 20 <= Uçuþ Sayýsý
+
+
+Sistemde her bir üyenin ucusSayisinin düzenlendiði ve uçuþtan sonra mil puanlarýnýn toplamýný hesaplayan  birer metod bulunmalýdýr. 
+milhesapla() güncelleme metodu abstract olarak üst sýnýfta tanýmlanmalýdýr. Bu tasarým yapýldýktan sonra test sýnýfý içerisinde 
+3 nesne aþaðýdaki ilk deðerlerle üretilip ilgili metodlarý yürüten programý yazýnýz.
+
+Standart:  1234 Ahmet Elbir       8 100 
+Gold:      3244 Ahmet Develi      18 700
+Platinium: 5564 Kadir Albayrak    40 1200 
+
+Bu aþamadan sonra her bir üye bir kez uçuþ yapacak ve aþaðýdaki þekilde miller güncellenecektir.
+
+Standart:  1234 Ahmet Elbir      9  400
+Gold: 	   3244 Ahmet Develi     19 1100
+Platinium: 5564 Kadir Albayrak   41 1700
+
+Kiþiler daha sonra 4 uçuþ yapacaktýr. Bundan sonra güncel miller aþaðýdaki gibi olacaktýr.
+
+Standart:  1234 Ahmet Elbir      13 2000
+Gold: 	   3244 Ahmet Develi     23 3100
+Platinium: 5564 Kadir Albayrak   45 3700

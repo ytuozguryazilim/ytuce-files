@@ -1,0 +1,33 @@
+AKBÝL YÖNETÝM SÝSTEMÝ:
+Elektronik bilet hizmeti veren bir þirket için yazýlým tasarlanacaktýr. 
+Sistemde her bir abonenin id, ad, soyad, kredi ve yaþ bilgileri saklanacaktýr. 
+Kiþinin yaþ bilgisine göre ücretlendirme aþaðýdaki tarife uygulanacaktýr. 
+
+Öðrenci:0-29 : 1 TL
+Tam    :30-59: 2 TL
+Yaþlý  :60-  : 0.5 TL
+
+Sistemde her bir abonenin yaþýnýn artmasýný ve otobüse binip yaþ bilgisine göre kredisini 
+güncellemesini saðlayan birer metod bulunmalýdýr. Kredi güncelleme metodu abstract olarak 
+üst sýnýfta tanýmlanmalýdýr. Bu tasarým yapýldýktan sonra test sýnýfý içerisinde 4 nesne aþaðýdaki 
+ilk deðerlerle üretilip ilgili metodlarý yürüten programý yazýnýz.
+
+Öðr-1: 1234 Ahmet Elbir      28 10
+Öðr-2: 3244 Ahmet Develi     20 10
+Tam-1: 5564 Kadir Albayrak   58 100
+Yasli: 8762 Ayþe  Çýnar      60 100
+
+Bu aþamadan sonra her bir abone bir kez otobüs kullanacak ve aþaðýdaki þekilde krediler güncellenecektir.
+
+Öðr-1: 1234 Ahmet Elbir      28 9
+Öðr-2: 3244 Ahmet Develi     20 9
+Tam-1: 5564 Kadir Albayrak   58 98
+Yasli: 8762 Ayþe  Çýnar      60 99.5
+
+Kiþiler önce iki yaþ yaþlandýrýlacak ve bir kez otobüs kullanacaktýr. Bundan sonra güncel krediler aþaðýdaki
+gibi olacaktýr.
+
+Öðr-1: 1234 Ahmet Elbir      30 7
+Öðr-2: 3244 Ahmet Develi     22 8
+Tam-1: 5564 Kadir Albayrak   60 97.5
+Yasli: 8762 Ayþe  Çýnar      62 99.0

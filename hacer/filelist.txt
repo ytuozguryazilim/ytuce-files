@@ -1,0 +1,3 @@
+/opt/ytuce-files/hacer/BBG1/Uygulama3.rar https://www.ce.yildiz.edu.tr/personal/hacer/file/15942/Uygulama3.rar
+/opt/ytuce-files/hacer/Prog_Dilleri/formatliDosya.txt https://www.ce.yildiz.edu.tr/personal/hacer/file/30619/formatliDosya.txt
+/opt/ytuce-files/hacer/Prog_Dilleri/LAB.txt https://www.ce.yildiz.edu.tr/personal/hacer/file/30615/LAB.txt

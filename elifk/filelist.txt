@@ -1,0 +1,17 @@
+/opt/ytuce-files/elifk/Algoritma+Analizi/AlgoritmaAnaliziOdev1.doc https://www.ce.yildiz.edu.tr/personal/elifk/file/1101/AlgoritmaAnaliziOdev1.doc
+/opt/ytuce-files/elifk/Algoritma+Analizi/algoritmaanalizi.xls https://www.ce.yildiz.edu.tr/personal/elifk/file/1335/algoritmaanalizi.xls
+/opt/ytuce-files/elifk/Algoritma+Analizi/hw2.rar https://www.ce.yildiz.edu.tr/personal/elifk/file/1232/hw2.rar
+/opt/ytuce-files/elifk/Algoritma+Analizi/hw3.rar https://www.ce.yildiz.edu.tr/personal/elifk/file/1300/hw3.rar
+/opt/ytuce-files/elifk/Bilgisayar+Bilimlerine+Giri%C5%9F+1/2012bbgodev1.doc https://www.ce.yildiz.edu.tr/personal/elifk/file/1246/2012bbgodev1.doc
+/opt/ytuce-files/elifk/Bilgisayar+Bilimlerine+Giri%C5%9F+1/2012bbgproje.doc https://www.ce.yildiz.edu.tr/personal/elifk/file/1315/2012bbgproje.doc
+/opt/ytuce-files/elifk/Bilgisayar+Bilimlerine+Giri%C5%9F+1/bbg1.xls https://www.ce.yildiz.edu.tr/personal/elifk/file/1351/bbg1.xls
+/opt/ytuce-files/elifk/Data+yap%C4%B1lar%C4%B1+ve+Algoritmalar/odev3.rar https://www.ce.yildiz.edu.tr/personal/elifk/file/825/odev3.rar
+/opt/ytuce-files/elifk/Data+yap%C4%B1lar%C4%B1+ve+Algoritmalar/VeriYap%C4%B1lar%C4%B1%C3%96dev1.doc https://www.ce.yildiz.edu.tr/personal/elifk/file/650/VeriYap%C4%B1lar%C4%B1%C3%96dev1.doc
+/opt/ytuce-files/elifk/Data+yap%C4%B1lar%C4%B1+ve+Algoritmalar/VeriYap%C4%B1lar%C4%B1%C3%96dev2.doc https://www.ce.yildiz.edu.tr/personal/elifk/file/785/VeriYap%C4%B1lar%C4%B1%C3%96dev2.doc
+/opt/ytuce-files/elifk/Data+yap%C4%B1lar%C4%B1+ve+Algoritmalar/VeriYap%C4%B1lar%C4%B1%C3%96dev2Ornek.doc https://www.ce.yildiz.edu.tr/personal/elifk/file/786/VeriYap%C4%B1lar%C4%B1%C3%96dev2Ornek.doc
+/opt/ytuce-files/elifk/Data+yap%C4%B1lar%C4%B1+ve+Algoritmalar/V+eriYapilariFinal.doc https://www.ce.yildiz.edu.tr/personal/elifk/file/900/V+eriYapilariFinal.doc
+/opt/ytuce-files/elifk/G%C3%B6r%C3%BCnt%C3%BC+%C4%B0%C5%9Fleme/odev1.rar https://www.ce.yildiz.edu.tr/personal/elifk/file/1103/odev1.rar
+/opt/ytuce-files/elifk/G%C3%B6r%C3%BCnt%C3%BC+%C4%B0%C5%9Fleme/odev2.rar https://www.ce.yildiz.edu.tr/personal/elifk/file/1247/odev2.rar
+/opt/ytuce-files/elifk/Makine+%C3%96%C4%9Frenmesi/naiveBayes.doc https://www.ce.yildiz.edu.tr/personal/elifk/file/1091/naiveBayes.doc
+/opt/ytuce-files/elifk/SekilTanima/finalOdevi.rar https://www.ce.yildiz.edu.tr/personal/elifk/file/910/finalOdevi.rar
+/opt/ytuce-files/elifk/VideO+%C4%B0%C5%9Fleme/finalOdevi2012.rar https://www.ce.yildiz.edu.tr/personal/elifk/file/905/finalOdevi2012.rar
