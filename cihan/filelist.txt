@@ -26,8 +26,10 @@
 /opt/ytuce-files/cihan/BBG20171/03+-+Algorithms_p2.pdf https://www.ce.yildiz.edu.tr/personal/cihan/file/30076/03+-+Algorithms_p2.pdf
 /opt/ytuce-files/cihan/BBG20171/HW-1.pdf https://www.ce.yildiz.edu.tr/personal/cihan/file/29758/HW-1.pdf
 /opt/ytuce-files/cihan/BLM1011/00+-+Syllabus.pdf https://www.ce.yildiz.edu.tr/personal/cihan/file/32922/00+-+Syllabus.pdf
+/opt/ytuce-files/cihan/BLM1011/01+-+C_review_p1.pdf https://www.ce.yildiz.edu.tr/personal/cihan/file/33938/01+-+C_review_p1.pdf
 /opt/ytuce-files/cihan/BLM1011/01+-+Introduction.pdf https://www.ce.yildiz.edu.tr/personal/cihan/file/32926/01+-+Introduction.pdf
 /opt/ytuce-files/cihan/BLM1011/02+-+Basics.pdf https://www.ce.yildiz.edu.tr/personal/cihan/file/32934/02+-+Basics.pdf
+/opt/ytuce-files/cihan/BLM1011/02+-+C_review_p2.pdf https://www.ce.yildiz.edu.tr/personal/cihan/file/33942/02+-+C_review_p2.pdf
 /opt/ytuce-files/cihan/BLM1011/03+-+Algoritma_ENG.pdf https://www.ce.yildiz.edu.tr/personal/cihan/file/32935/03+-+Algoritma_ENG.pdf
 /opt/ytuce-files/cihan/BLM2031/00+-+Syllabus.pdf https://www.ce.yildiz.edu.tr/personal/cihan/file/32939/00+-+Syllabus.pdf
 /opt/ytuce-files/cihan/BLM2031/01+-+C_review_p1.pdf https://www.ce.yildiz.edu.tr/personal/cihan/file/32940/01+-+C_review_p1.pdf
@@ -85,6 +87,7 @@
 /opt/ytuce-files/cihan/CSE0420/05+-+ADC_Timers_Int.pdf https://www.ce.yildiz.edu.tr/personal/cihan/file/33343/05+-+ADC_Timers_Int.pdf
 /opt/ytuce-files/cihan/CSE0420/06a+-+Realtime_systems.pdf https://www.ce.yildiz.edu.tr/personal/cihan/file/33549/06a+-+Realtime_systems.pdf
 /opt/ytuce-files/cihan/CSE0420/06b+-+Realtime_systems.pdf https://www.ce.yildiz.edu.tr/personal/cihan/file/33553/06b+-+Realtime_systems.pdf
+/opt/ytuce-files/cihan/CSE0420/07+-+Report_Presentation.pdf https://www.ce.yildiz.edu.tr/personal/cihan/file/33840/07+-+Report_Presentation.pdf
 /opt/ytuce-files/cihan/Gr1_sunum_listesi.pdf https://www.ce.yildiz.edu.tr/personal/cihan/file/31527/Gr1_sunum_listesi.pdf
 /opt/ytuce-files/cihan/MI20162/BLM3802-presentations.pdf https://www.ce.yildiz.edu.tr/personal/cihan/file/29091/BLM3802-presentations.pdf
 /opt/ytuce-files/cihan/MI20162/list_of_weekly_topics.txt https://www.ce.yildiz.edu.tr/personal/cihan/file/28368/list_of_weekly_topics.txt

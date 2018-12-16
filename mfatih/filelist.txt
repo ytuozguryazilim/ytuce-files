@@ -123,6 +123,7 @@
 /opt/ytuce-files/mfatih/Uzman+Sistemler/bilgi_gosterimi.ppt https://www.ce.yildiz.edu.tr/personal/mfatih/file/869/bilgi_gosterimi.ppt
 /opt/ytuce-files/mfatih/Uzman+Sistemler/case_based.ppt https://www.ce.yildiz.edu.tr/personal/mfatih/file/868/case_based.ppt
 /opt/ytuce-files/mfatih/Uzman+Sistemler/csdb_csoyun.ppt https://www.ce.yildiz.edu.tr/personal/mfatih/file/2666/csdb_csoyun.ppt
+/opt/ytuce-files/mfatih/Uzman+Sistemler/ders_listesi.xlsx https://www.ce.yildiz.edu.tr/personal/mfatih/file/33921/ders_listesi.xlsx
 /opt/ytuce-files/mfatih/Uzman+Sistemler/fiiller.pl https://www.ce.yildiz.edu.tr/personal/mfatih/file/1487/fiiller.pl
 /opt/ytuce-files/mfatih/Uzman+Sistemler/fiiller_USders.xls https://www.ce.yildiz.edu.tr/personal/mfatih/file/1466/fiiller_USders.xls
 /opt/ytuce-files/mfatih/Uzman+Sistemler/isimler.pl https://www.ce.yildiz.edu.tr/personal/mfatih/file/1602/isimler.pl
@@ -138,6 +139,7 @@
 /opt/ytuce-files/mfatih/Uzman+Sistemler/semantik_web.ppt https://www.ce.yildiz.edu.tr/personal/mfatih/file/8261/semantik_web.ppt
 /opt/ytuce-files/mfatih/Uzman+Sistemler/US_ders_icerik_2018guz.doc https://www.ce.yildiz.edu.tr/personal/mfatih/file/32820/US_ders_icerik_2018guz.doc
 /opt/ytuce-files/mfatih/Uzman+Sistemler/US_ders_icerik_2018guz.doc https://www.ce.yildiz.edu.tr/personal/mfatih/file/33464/US_ders_icerik_2018guz.doc
+/opt/ytuce-files/mfatih/Uzman+Sistemler/US_ders_icerik_2018guz.doc https://www.ce.yildiz.edu.tr/personal/mfatih/file/33881/US_ders_icerik_2018guz.doc
 /opt/ytuce-files/mfatih/Uzman+Sistemler/UYAP_Hedefler.ppt https://www.ce.yildiz.edu.tr/personal/mfatih/file/523/UYAP_Hedefler.ppt
 /opt/ytuce-files/mfatih/Uzman+Sistemler/uzmandan_bilgialma.ppt https://www.ce.yildiz.edu.tr/personal/mfatih/file/3011/uzmandan_bilgialma.ppt
 /opt/ytuce-files/mfatih/Uzman+Sistemler/uzman_sistemlere_giris.ppt https://www.ce.yildiz.edu.tr/personal/mfatih/file/8271/uzman_sistemlere_giris.ppt
@@ -251,5 +253,8 @@
 /opt/ytuce-files/mfatih/yayinlar/yancumle_ogeleme.pdf https://www.ce.yildiz.edu.tr/personal/mfatih/file/15131/yancumle_ogeleme.pdf
 /opt/ytuce-files/mfatih/yayinlar/YTUJENS-2016-34-1.1444.pdf https://www.ce.yildiz.edu.tr/personal/mfatih/file/19431/YTUJENS-2016-34-1.1444.pdf
 /opt/ytuce-files/mfatih/YLseminer/2018_1_YLseminer_ders_icerik.doc https://www.ce.yildiz.edu.tr/personal/mfatih/file/32835/2018_1_YLseminer_ders_icerik.doc
+/opt/ytuce-files/mfatih/YLseminer/bilimsel_arastirma.pdf https://www.ce.yildiz.edu.tr/personal/mfatih/file/33776/bilimsel_arastirma.pdf
 /opt/ytuce-files/mfatih/YLseminer/makale_yazimi.pdf https://www.ce.yildiz.edu.tr/personal/mfatih/file/33371/makale_yazimi.pdf
+/opt/ytuce-files/mfatih/YLseminer/proje_tez_onerisi_yazmak.pdf https://www.ce.yildiz.edu.tr/personal/mfatih/file/33728/proje_tez_onerisi_yazmak.pdf
 /opt/ytuce-files/mfatih/YLseminer/sunum_el_kitabi.pdf https://www.ce.yildiz.edu.tr/personal/mfatih/file/33359/sunum_el_kitabi.pdf
+/opt/ytuce-files/mfatih/YLseminer/zaman_yonetimi.pdf https://www.ce.yildiz.edu.tr/personal/mfatih/file/33732/zaman_yonetimi.pdf

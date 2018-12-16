@@ -3,6 +3,8 @@
 /opt/ytuce-files/amacg/AndroidStudioProjects/SQLite.zip https://www.ce.yildiz.edu.tr/personal/amacg/file/29374/SQLite.zip
 /opt/ytuce-files/amacg/BLM1011/1819_Syllabus_BBG.pdf https://www.ce.yildiz.edu.tr/personal/amacg/file/33020/1819_Syllabus_BBG.pdf
 /opt/ytuce-files/amacg/BLM1011/Assignment_1.pdf https://www.ce.yildiz.edu.tr/personal/amacg/file/33561/Assignment_1.pdf
+/opt/ytuce-files/amacg/BLM1011/Assignment_2_v2.pdf https://www.ce.yildiz.edu.tr/personal/amacg/file/33927/Assignment_2_v2.pdf
+/opt/ytuce-files/amacg/BLM1011/Semester_Project.pdf https://www.ce.yildiz.edu.tr/personal/amacg/file/34029/Semester_Project.pdf
 /opt/ytuce-files/amacg/BLM1551/1718_Syllabus_BBG.pdf https://www.ce.yildiz.edu.tr/personal/amacg/file/29574/1718_Syllabus_BBG.pdf
 /opt/ytuce-files/amacg/BLM1551/Assignment_1.pdf https://www.ce.yildiz.edu.tr/personal/amacg/file/29954/Assignment_1.pdf
 /opt/ytuce-files/amacg/BLM1551/Assignment_2.pdf https://www.ce.yildiz.edu.tr/personal/amacg/file/30245/Assignment_2.pdf
@@ -22,6 +24,8 @@
 /opt/ytuce-files/amacg/BLM2541/Semester_Project_Rules_v2.pdf https://www.ce.yildiz.edu.tr/personal/amacg/file/30702/Semester_Project_Rules_v2.pdf
 /opt/ytuce-files/amacg/BLM2541/Turkce_Kelimeler_Corpus.rar https://www.ce.yildiz.edu.tr/personal/amacg/file/30426/Turkce_Kelimeler_Corpus.rar
 /opt/ytuce-files/amacg/BLM3021/Assignment_1.pdf https://www.ce.yildiz.edu.tr/personal/amacg/file/33378/Assignment_1.pdf
+/opt/ytuce-files/amacg/BLM3021/Assignment_2_v2.pdf https://www.ce.yildiz.edu.tr/personal/amacg/file/33834/Assignment_2_v2.pdf
+/opt/ytuce-files/amacg/BLM3021/Semester_Project_18_19.pdf https://www.ce.yildiz.edu.tr/personal/amacg/file/34090/Semester_Project_18_19.pdf
 /opt/ytuce-files/amacg/BLM3520/16_17_Syllabus_MPG.pdf https://www.ce.yildiz.edu.tr/personal/amacg/file/28241/16_17_Syllabus_MPG.pdf
 /opt/ytuce-files/amacg/BLM3520/AndroidStudioProjects/GeoQuiz+2.zip https://www.ce.yildiz.edu.tr/personal/amacg/file/29027/GeoQuiz+2.zip
 /opt/ytuce-files/amacg/BLM3520/AndroidStudioProjects/HelloAndroidWithLogin.zip https://www.ce.yildiz.edu.tr/personal/amacg/file/29019/HelloAndroidWithLogin.zip

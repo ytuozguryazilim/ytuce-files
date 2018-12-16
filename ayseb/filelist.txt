@@ -16,10 +16,13 @@
 /opt/ytuce-files/ayseb/bbg-2/lab4/SORU2.c https://www.ce.yildiz.edu.tr/personal/ayseb/file/32199/SORU2.c
 /opt/ytuce-files/ayseb/bbg-2/ufuk_C2.doc https://www.ce.yildiz.edu.tr/personal/ayseb/file/31417/ufuk_C2.doc
 /opt/ytuce-files/ayseb/bbg-2/ufuk_C.doc https://www.ce.yildiz.edu.tr/personal/ayseb/file/31415/ufuk_C.doc
+/opt/ytuce-files/ayseb/%C4%B0%C5%9Fletim+Sistemleri/MBR.pdf https://www.ce.yildiz.edu.tr/personal/ayseb/file/33721/MBR.pdf
 /opt/ytuce-files/ayseb/Cryptography/07-crypto.pdf https://www.ce.yildiz.edu.tr/personal/ayseb/file/4862/07-crypto.pdf
 /opt/ytuce-files/ayseb/Cryptography/Crypto+101+%26+Password+Cracking.pptx https://www.ce.yildiz.edu.tr/personal/ayseb/file/30728/Crypto+101+%26+Password+Cracking.pptx
 /opt/ytuce-files/ayseb/Cryptography/Crypto-YT%C3%9C.pdf https://www.ce.yildiz.edu.tr/personal/ayseb/file/20952/Crypto-YT%C3%9C.pdf
 /opt/ytuce-files/ayseb/Cryptography/IF2017.pdf https://www.ce.yildiz.edu.tr/personal/ayseb/file/33628/IF2017.pdf
+/opt/ytuce-files/ayseb/Cryptography/SQLi.pdf https://www.ce.yildiz.edu.tr/personal/ayseb/file/33717/SQLi.pdf
+/opt/ytuce-files/ayseb/Cryptography/yazilar.pdf https://www.ce.yildiz.edu.tr/personal/ayseb/file/34080/yazilar.pdf
 /opt/ytuce-files/ayseb/Network/nat%3Adhcp%3Anmap.pdf https://www.ce.yildiz.edu.tr/personal/ayseb/file/29038/nat%3Adhcp%3Anmap.pdf
 /opt/ytuce-files/ayseb/OS-2017/HW_1/Makefile https://www.ce.yildiz.edu.tr/personal/ayseb/file/30669/Makefile
 /opt/ytuce-files/ayseb/OS-2017/HW_1/mm_alloc.c https://www.ce.yildiz.edu.tr/personal/ayseb/file/30571/mm_alloc.c

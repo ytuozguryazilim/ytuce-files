@@ -24,9 +24,12 @@
 /opt/ytuce-files/vhakkoymaz/DSist/DS-chap-04aSockets.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/30124/DS-chap-04aSockets.ppt
 /opt/ytuce-files/vhakkoymaz/DSist/DS-chap-04aSockets.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/33398/DS-chap-04aSockets.ppt
 /opt/ytuce-files/vhakkoymaz/DSist/DS-chap-04bSockets.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/30219/DS-chap-04bSockets.ppt
+/opt/ytuce-files/vhakkoymaz/DSist/DS-chap-04bSockets.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/33780/DS-chap-04bSockets.ppt
 /opt/ytuce-files/vhakkoymaz/DSist/DS-chap-05aa-myPresentation_Of_Implementing+RPC_BirrellNelson.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/30555/DS-chap-05aa-myPresentation_Of_Implementing+RPC_BirrellNelson.ppt
 /opt/ytuce-files/vhakkoymaz/DSist/DS-chap-05aaOKUp39-birrell.pdf https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/30225/DS-chap-05aaOKUp39-birrell.pdf
+/opt/ytuce-files/vhakkoymaz/DSist/DS-chap-05aaOKUp39-birrell.pdf https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/33917/DS-chap-05aaOKUp39-birrell.pdf
 /opt/ytuce-files/vhakkoymaz/DSist/DS-chap-05aRPCProgrammingTR.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/30556/DS-chap-05aRPCProgrammingTR.ppt
+/opt/ytuce-files/vhakkoymaz/DSist/DS-chap-05aRPCProgrammingTR.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/33919/DS-chap-05aRPCProgrammingTR.ppt
 /opt/ytuce-files/vhakkoymaz/DSist/DS-chap-06NamingServicesTRa.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/30532/DS-chap-06NamingServicesTRa.ppt
 /opt/ytuce-files/vhakkoymaz/DSist/DS-chap-06NamingServicesTRb.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/30704/DS-chap-06NamingServicesTRb.ppt
 /opt/ytuce-files/vhakkoymaz/DSist/DS-Chap13-TransactionsTR.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/30706/DS-Chap13-TransactionsTR.ppt
@@ -74,6 +77,7 @@
 /opt/ytuce-files/vhakkoymaz/VTLisans/05b-RMSQLnew.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/30341/05b-RMSQLnew.ppt
 /opt/ytuce-files/vhakkoymaz/VTLisans/05b-RMSQLnew.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/33684/05b-RMSQLnew.ppt
 /opt/ytuce-files/vhakkoymaz/VTLisans/07a-FonksBag.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/30343/07a-FonksBag.ppt
+/opt/ytuce-files/vhakkoymaz/VTLisans/07a-FonksBag.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/33960/07a-FonksBag.ppt
 /opt/ytuce-files/vhakkoymaz/VTLisans/08a-DBProgMe.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/30634/08a-DBProgMe.ppt
 /opt/ytuce-files/vhakkoymaz/VTLisans/08b-DBProgPHP.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/30636/08b-DBProgPHP.ppt
 /opt/ytuce-files/vhakkoymaz/VTModTas/01a-Giris.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/29796/01a-Giris.ppt

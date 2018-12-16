@@ -15,6 +15,9 @@
 /opt/ytuce-files/nurgul/NDK+2017+Guz/Yoklama+ve+Not+Sonuclari.pdf https://www.ce.yildiz.edu.tr/personal/nurgul/file/30232/Yoklama+ve+Not+Sonuclari.pdf
 /opt/ytuce-files/nurgul/VT2018/1.+Hafta-Sunum.pptx https://www.ce.yildiz.edu.tr/personal/nurgul/file/33314/1.+Hafta-Sunum.pptx
 /opt/ytuce-files/nurgul/VT2018/2.+Hafta-Sunum.pptx https://www.ce.yildiz.edu.tr/personal/nurgul/file/33315/2.+Hafta-Sunum.pptx
+/opt/ytuce-files/nurgul/VT2018/7.+Hafta-Sunum.pptx https://www.ce.yildiz.edu.tr/personal/nurgul/file/34032/7.+Hafta-Sunum.pptx
+/opt/ytuce-files/nurgul/VT2018/8.+Hafta-Sunum.pptx https://www.ce.yildiz.edu.tr/personal/nurgul/file/34034/8.+Hafta-Sunum.pptx
+/opt/ytuce-files/nurgul/VT2018/%C3%96rnek+sorular-2_v2.pdf https://www.ce.yildiz.edu.tr/personal/nurgul/file/33785/%C3%96rnek+sorular-2_v2.pdf
 /opt/ytuce-files/nurgul/VT2018/ornek+sorular_v2.pdf https://www.ce.yildiz.edu.tr/personal/nurgul/file/33382/ornek+sorular_v2.pdf
 /opt/ytuce-files/nurgul/Yaz%C4%B1l%C4%B1m+M%C3%BCh.+2017G%C3%BCz/VioletUML-0.21.1.jar https://www.ce.yildiz.edu.tr/personal/nurgul/file/28808/VioletUML-0.21.1.jar
 /opt/ytuce-files/nurgul/Yaz%C4%B1l%C4%B1m+M%C3%BCh.+2017G%C3%BCz/Yaz%C4%B1l%C4%B1m+M%C3%BCh.+2.Lab+Listesi.pdf https://www.ce.yildiz.edu.tr/personal/nurgul/file/29278/Yaz%C4%B1l%C4%B1m+M%C3%BCh.+2.Lab+Listesi.pdf
