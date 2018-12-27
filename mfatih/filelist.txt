@@ -140,6 +140,7 @@
 /opt/ytuce-files/mfatih/Uzman+Sistemler/US_ders_icerik_2018guz.doc https://www.ce.yildiz.edu.tr/personal/mfatih/file/32820/US_ders_icerik_2018guz.doc
 /opt/ytuce-files/mfatih/Uzman+Sistemler/US_ders_icerik_2018guz.doc https://www.ce.yildiz.edu.tr/personal/mfatih/file/33464/US_ders_icerik_2018guz.doc
 /opt/ytuce-files/mfatih/Uzman+Sistemler/US_ders_icerik_2018guz.doc https://www.ce.yildiz.edu.tr/personal/mfatih/file/33881/US_ders_icerik_2018guz.doc
+/opt/ytuce-files/mfatih/Uzman+Sistemler/US_donem_projeleri.doc https://www.ce.yildiz.edu.tr/personal/mfatih/file/34095/US_donem_projeleri.doc
 /opt/ytuce-files/mfatih/Uzman+Sistemler/UYAP_Hedefler.ppt https://www.ce.yildiz.edu.tr/personal/mfatih/file/523/UYAP_Hedefler.ppt
 /opt/ytuce-files/mfatih/Uzman+Sistemler/uzmandan_bilgialma.ppt https://www.ce.yildiz.edu.tr/personal/mfatih/file/3011/uzmandan_bilgialma.ppt
 /opt/ytuce-files/mfatih/Uzman+Sistemler/uzman_sistemlere_giris.ppt https://www.ce.yildiz.edu.tr/personal/mfatih/file/8271/uzman_sistemlere_giris.ppt

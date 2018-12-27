@@ -106,8 +106,10 @@
 /opt/ytuce-files/maktas/BLM5121-Web+Mining-Fall-18/chapter-3-CS583-supervised-learning.pdf https://www.ce.yildiz.edu.tr/personal/maktas/file/33087/chapter-3-CS583-supervised-learning.pdf
 /opt/ytuce-files/maktas/BLM5121-Web+Mining-Fall-18/chapter-7-CS583-link-analysis-1.pdf https://www.ce.yildiz.edu.tr/personal/maktas/file/33761/chapter-7-CS583-link-analysis-1.pdf
 /opt/ytuce-files/maktas/BLM5121-Web+Mining-Fall-18/chapter-7-CS583-link-analysis-2-a.pdf https://www.ce.yildiz.edu.tr/personal/maktas/file/33766/chapter-7-CS583-link-analysis-2-a.pdf
+/opt/ytuce-files/maktas/BLM5121-Web+Mining-Fall-18/chapter-8-WebCrawlingChapter.pdf https://www.ce.yildiz.edu.tr/personal/maktas/file/34140/chapter-8-WebCrawlingChapter.pdf
 /opt/ytuce-files/maktas/BLM5121-Web+Mining-Fall-18/Course+Introduction.pdf https://www.ce.yildiz.edu.tr/personal/maktas/file/32887/Course+Introduction.pdf
 /opt/ytuce-files/maktas/BLM5121-Web+Mining-Fall-18/midterm-results-YL.pdf https://www.ce.yildiz.edu.tr/personal/maktas/file/33757/midterm-results-YL.pdf
+/opt/ytuce-files/maktas/BLM5121-Web+Mining-Fall-18/newcrawler.zip https://www.ce.yildiz.edu.tr/personal/maktas/file/34143/newcrawler.zip
 /opt/ytuce-files/maktas/BLM5121-Web+Mining-Fall-18/project_ideas.pdf https://www.ce.yildiz.edu.tr/personal/maktas/file/33088/project_ideas.pdf
 /opt/ytuce-files/maktas/BLM5151-Semantic+Web+Fall-16/apache-jena.zip https://www.ce.yildiz.edu.tr/personal/maktas/file/25641/apache-jena.zip
 /opt/ytuce-files/maktas/BLM5151-Semantic+Web+Fall-16/Chapter1.pdf https://www.ce.yildiz.edu.tr/personal/maktas/file/23591/Chapter1.pdf

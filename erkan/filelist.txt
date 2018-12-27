@@ -31,6 +31,7 @@
 /opt/ytuce-files/erkan/20181+Alt+Seviye+Programlama/ASP+1.+Vize+Notlar%C4%B1.xlsx https://www.ce.yildiz.edu.tr/personal/erkan/file/33856/ASP+1.+Vize+Notlar%C4%B1.xlsx
 /opt/ytuce-files/erkan/20181+Alt+Seviye+Programlama/ASP+20181+1.+%C3%96dev.pdf https://www.ce.yildiz.edu.tr/personal/erkan/file/33811/ASP+20181+1.+%C3%96dev.pdf
 /opt/ytuce-files/erkan/20181+Alt+Seviye+Programlama/assembler+%2B+linker+%2B+debegger.rar https://www.ce.yildiz.edu.tr/personal/erkan/file/33441/assembler+%2B+linker+%2B+debegger.rar
+/opt/ytuce-files/erkan/20181+Alt+Seviye+Programlama/%C3%B6dev2.pdf https://www.ce.yildiz.edu.tr/personal/erkan/file/34219/%C3%B6dev2.pdf
 /opt/ytuce-files/erkan/20181+Alt+Seviye+Programlama/ders+tan%C4%B1t%C4%B1m+-+assembly.docx https://www.ce.yildiz.edu.tr/personal/erkan/file/33393/ders+tan%C4%B1t%C4%B1m+-+assembly.docx
 /opt/ytuce-files/erkan/20181+Alt+Seviye+Programlama/lena.zip https://www.ce.yildiz.edu.tr/personal/erkan/file/33810/lena.zip
 /opt/ytuce-files/erkan/2018_Bahar_Bilgisayar_Donan%C4%B1m%C4%B1/01+Digital+Logic+Review.pdf https://www.ce.yildiz.edu.tr/personal/erkan/file/31003/01+Digital+Logic+Review.pdf
@@ -52,7 +53,9 @@
 /opt/ytuce-files/erkan/2018_Bahar_Bilgisayar_Donan%C4%B1m%C4%B1/vize2_cevaplar_20172.pdf.pdf https://www.ce.yildiz.edu.tr/personal/erkan/file/32438/vize2_cevaplar_20172.pdf.pdf
 /opt/ytuce-files/erkan/2018+Bahar+Devre+Teorisi/%C3%96dev1.docx https://www.ce.yildiz.edu.tr/personal/erkan/file/33802/%C3%96dev1.docx
 /opt/ytuce-files/erkan/2018+Bahar+Devre+Teorisi/%C3%96dev2.docx https://www.ce.yildiz.edu.tr/personal/erkan/file/33806/%C3%96dev2.docx
+/opt/ytuce-files/erkan/2018+Bahar+Devre+Teorisi/%C3%96dev2.docx https://www.ce.yildiz.edu.tr/personal/erkan/file/34096/%C3%96dev2.docx
 /opt/ytuce-files/erkan/2018+Bahar+Devre+Teorisi/%C3%96dev4.pdf https://www.ce.yildiz.edu.tr/personal/erkan/file/34024/%C3%96dev4.pdf
+/opt/ytuce-files/erkan/2018+Bahar+Devre+Teorisi/%C3%96dev5.docx https://www.ce.yildiz.edu.tr/personal/erkan/file/34112/%C3%96dev5.docx
 /opt/ytuce-files/erkan/2018+Bahar+Devre+Teorisi/%C3%B6dev+3.docx https://www.ce.yildiz.edu.tr/personal/erkan/file/33932/%C3%B6dev+3.docx
 /opt/ytuce-files/erkan/2018+Bahar+Devre+Teorisi/%C3%B6dev+3.pdf https://www.ce.yildiz.edu.tr/personal/erkan/file/34021/%C3%B6dev+3.pdf
 /opt/ytuce-files/erkan/2018+Bahar+Devre+Teorisi/ders+tan%C4%B1t%C4%B1m+-+devre.docx https://www.ce.yildiz.edu.tr/personal/erkan/file/33208/ders+tan%C4%B1t%C4%B1m+-+devre.docx
@@ -61,7 +64,9 @@
 /opt/ytuce-files/erkan/2018+Bahar+Mikroi%C5%9Flemci+Sistemleri/ders+tan%C4%B1t%C4%B1m.docx https://www.ce.yildiz.edu.tr/personal/erkan/file/33213/ders+tan%C4%B1t%C4%B1m.docx
 /opt/ytuce-files/erkan/2018+Bahar+Mikroi%C5%9Flemci+Sistemleri/mikro_2018_1_vize1_cevaplar.pdf https://www.ce.yildiz.edu.tr/personal/erkan/file/33784/mikro_2018_1_vize1_cevaplar.pdf
 /opt/ytuce-files/erkan/2018+Bahar+Mikroi%C5%9Flemci+Sistemleri/mikro+vize1.xlsx https://www.ce.yildiz.edu.tr/personal/erkan/file/33931/mikro+vize1.xlsx
+/opt/ytuce-files/erkan/2018+Bahar+Mikroi%C5%9Flemci+Sistemleri/mikro_vize2.xlsx https://www.ce.yildiz.edu.tr/personal/erkan/file/34189/mikro_vize2.xlsx
 /opt/ytuce-files/erkan/2018+Bahar+Mikroi%C5%9Flemci+Sistemleri/ODEV1.zip https://www.ce.yildiz.edu.tr/personal/erkan/file/33389/ODEV1.zip
+/opt/ytuce-files/erkan/2018+Bahar+Mikroi%C5%9Flemci+Sistemleri/ODEV2.zip https://www.ce.yildiz.edu.tr/personal/erkan/file/34097/ODEV2.zip
 /opt/ytuce-files/erkan/2018+Bahar+Mikroi%C5%9Flemci+Sistemleri/ZO2.zip https://www.ce.yildiz.edu.tr/personal/erkan/file/33567/ZO2.zip
 /opt/ytuce-files/erkan/2018+Bahar+Mikroi%C5%9Flemci+Sistemleri/zorunlu_olmayan_odev.zip https://www.ce.yildiz.edu.tr/personal/erkan/file/33386/zorunlu_olmayan_odev.zip
 /opt/ytuce-files/erkan/2.png https://www.ce.yildiz.edu.tr/personal/erkan/file/23891/2.png

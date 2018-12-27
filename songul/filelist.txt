@@ -103,6 +103,7 @@
 /opt/ytuce-files/songul/%C3%87oklu+Ortam+sistemleri/Tutorials.rar https://www.ce.yildiz.edu.tr/personal/songul/file/9272/Tutorials.rar
 /opt/ytuce-files/songul/%C3%87oklu+Ortam+sistemleri/UIDesign.ppt https://www.ce.yildiz.edu.tr/personal/songul/file/21621/UIDesign.ppt
 /opt/ytuce-files/songul/%C3%87oklu+Ortam+sistemleri/wirebond.tif https://www.ce.yildiz.edu.tr/personal/songul/file/19162/wirebond.tif
+/opt/ytuce-files/songul/Mikroi%C5%9Flemciler/14-Memory.pptx https://www.ce.yildiz.edu.tr/personal/songul/file/34156/14-Memory.pptx
 /opt/ytuce-files/songul/Mikroi%C5%9Flemciler/15-interrupts.ppt https://www.ce.yildiz.edu.tr/personal/songul/file/3048/15-interrupts.ppt
 /opt/ytuce-files/songul/Mikroi%C5%9Flemciler/2017_1_final_Q_A.pdf https://www.ce.yildiz.edu.tr/personal/songul/file/33981/2017_1_final_Q_A.pdf
 /opt/ytuce-files/songul/Mikroi%C5%9Flemciler/8086CPU.ppt https://www.ce.yildiz.edu.tr/personal/songul/file/2496/8086CPU.ppt
@@ -121,6 +122,8 @@
 /opt/ytuce-files/songul/Mikroi%C5%9Flemciler/mikro_2018_1_vize1_cevaplar.pdf https://www.ce.yildiz.edu.tr/personal/songul/file/33852/mikro_2018_1_vize1_cevaplar.pdf
 /opt/ytuce-files/songul/Mikroi%C5%9Flemciler/Mikro-ders+tan%C4%B1t%C4%B1m.docx https://www.ce.yildiz.edu.tr/personal/songul/file/33229/Mikro-ders+tan%C4%B1t%C4%B1m.docx
 /opt/ytuce-files/songul/Mikroi%C5%9Flemciler/MikroListe-G1.xlsx https://www.ce.yildiz.edu.tr/personal/songul/file/33935/MikroListe-G1.xlsx
+/opt/ytuce-files/songul/Mikroi%C5%9Flemciler/mikro_vize2.xlsx https://www.ce.yildiz.edu.tr/personal/songul/file/34192/mikro_vize2.xlsx
+/opt/ytuce-files/songul/Mikroi%C5%9Flemciler/ODEV2.zip https://www.ce.yildiz.edu.tr/personal/songul/file/34153/ODEV2.zip
 /opt/ytuce-files/songul/Veri+Madencili%C4%9Fi/01Introduction.ppt https://www.ce.yildiz.edu.tr/personal/songul/file/1950/01Introduction.ppt
 /opt/ytuce-files/songul/Veri+Madencili%C4%9Fi/02DataMining.ppt https://www.ce.yildiz.edu.tr/personal/songul/file/326/02DataMining.ppt
 /opt/ytuce-files/songul/Veri+Madencili%C4%9Fi/03DataReduction.ppt https://www.ce.yildiz.edu.tr/personal/songul/file/327/03DataReduction.ppt

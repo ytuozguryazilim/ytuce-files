@@ -6,6 +6,7 @@
 /opt/ytuce-files/furkan/Alt+Sev.+Prog./asm_ornekler_4.rar https://www.ce.yildiz.edu.tr/personal/furkan/file/33672/asm_ornekler_4.rar
 /opt/ytuce-files/furkan/Alt+Sev.+Prog./asm_ornekler_5.rar https://www.ce.yildiz.edu.tr/personal/furkan/file/33956/asm_ornekler_5.rar
 /opt/ytuce-files/furkan/Alt+Sev.+Prog./asm_ornekler_6.rar https://www.ce.yildiz.edu.tr/personal/furkan/file/34065/asm_ornekler_6.rar
+/opt/ytuce-files/furkan/Alt+Sev.+Prog./asp_slayt13.pdf https://www.ce.yildiz.edu.tr/personal/furkan/file/34162/asp_slayt13.pdf
 /opt/ytuce-files/furkan/Alt+Sev.+Prog./asp_slayt1.pdf https://www.ce.yildiz.edu.tr/personal/furkan/file/33425/asp_slayt1.pdf
 /opt/ytuce-files/furkan/Alt+Sev.+Prog./asp_slayt8.pdf https://www.ce.yildiz.edu.tr/personal/furkan/file/33676/asp_slayt8.pdf
 /opt/ytuce-files/furkan/Alt+Sev.+Prog./assembler+%2B+linker+%2B+debegger.rar https://www.ce.yildiz.edu.tr/personal/furkan/file/33418/assembler+%2B+linker+%2B+debegger.rar
@@ -87,7 +88,9 @@
 /opt/ytuce-files/furkan/VT20171/VT_Lab2_Sunum.pdf https://www.ce.yildiz.edu.tr/personal/furkan/file/29745/VT_Lab2_Sunum.pdf
 /opt/ytuce-files/furkan/VT20171/VT_Lab3_Sunum.pdf https://www.ce.yildiz.edu.tr/personal/furkan/file/29847/VT_Lab3_Sunum.pdf
 /opt/ytuce-files/furkan/VT20171/vtLab5Kodlari.rar https://www.ce.yildiz.edu.tr/personal/furkan/file/30091/vtLab5Kodlari.rar
+/opt/ytuce-files/furkan/VT20181/BaseX911.zip https://www.ce.yildiz.edu.tr/personal/furkan/file/34108/BaseX911.zip
 /opt/ytuce-files/furkan/VT20181/company_db.rar https://www.ce.yildiz.edu.tr/personal/furkan/file/33173/company_db.rar
+/opt/ytuce-files/furkan/VT20181/company.xml.zip https://www.ce.yildiz.edu.tr/personal/furkan/file/34100/company.xml.zip
 /opt/ytuce-files/furkan/VT20181/db_lab3.pdf https://www.ce.yildiz.edu.tr/personal/furkan/file/33293/db_lab3.pdf
 /opt/ytuce-files/furkan/VT20181/dblab4.pdf https://www.ce.yildiz.edu.tr/personal/furkan/file/33605/dblab4.pdf
 /opt/ytuce-files/furkan/VT20181/dblab5.pdf https://www.ce.yildiz.edu.tr/personal/furkan/file/33654/dblab5.pdf
@@ -98,6 +101,8 @@
 /opt/ytuce-files/furkan/VT20181/Lab4_Sunum.pdf https://www.ce.yildiz.edu.tr/personal/furkan/file/33613/Lab4_Sunum.pdf
 /opt/ytuce-files/furkan/VT20181/Lab6_Sunum.pdf https://www.ce.yildiz.edu.tr/personal/furkan/file/33868/Lab6_Sunum.pdf
 /opt/ytuce-files/furkan/VT20181/Lab7_Sunum.pdf https://www.ce.yildiz.edu.tr/personal/furkan/file/34073/Lab7_Sunum.pdf
+/opt/ytuce-files/furkan/VT20181/Lab8_Sunum.pdf https://www.ce.yildiz.edu.tr/personal/furkan/file/34160/Lab8_Sunum.pdf
+/opt/ytuce-files/furkan/VT20181/VT-2017-Quiz3-Gr2.pdf https://www.ce.yildiz.edu.tr/personal/furkan/file/34133/VT-2017-Quiz3-Gr2.pdf
 /opt/ytuce-files/furkan/VT20181/vt2018-1+Lab+Dok.+1.+Hafta.pdf https://www.ce.yildiz.edu.tr/personal/furkan/file/33185/vt2018-1+Lab+Dok.+1.+Hafta.pdf
 /opt/ytuce-files/furkan/VT20181/vt2018-1+Lab+Dok.+2.+Hafta.pdf https://www.ce.yildiz.edu.tr/personal/furkan/file/33255/vt2018-1+Lab+Dok.+2.+Hafta.pdf
 /opt/ytuce-files/furkan/VT20181/vt2018-1+Lab+Dok.+3.+Hafta.pdf https://www.ce.yildiz.edu.tr/personal/furkan/file/33301/vt2018-1+Lab+Dok.+3.+Hafta.pdf

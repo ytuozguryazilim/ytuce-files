@@ -75,6 +75,8 @@
 /opt/ytuce-files/cihan/BLM6109/01a+-+Review.pdf https://www.ce.yildiz.edu.tr/personal/cihan/file/32990/01a+-+Review.pdf
 /opt/ytuce-files/cihan/BLM6109/03a+-+WSN.pdf https://www.ce.yildiz.edu.tr/personal/cihan/file/33225/03a+-+WSN.pdf
 /opt/ytuce-files/cihan/BLM6109/03b+-+WSN.pdf https://www.ce.yildiz.edu.tr/personal/cihan/file/33558/03b+-+WSN.pdf
+/opt/ytuce-files/cihan/BLM6109/04+-+M2M.pdf https://www.ce.yildiz.edu.tr/personal/cihan/file/34157/04+-+M2M.pdf
+/opt/ytuce-files/cihan/BLM6109/BLM6109_Gr1.pdf https://www.ce.yildiz.edu.tr/personal/cihan/file/34094/BLM6109_Gr1.pdf
 /opt/ytuce-files/cihan/%C4%B0%C5%9Fletim+Sistemleri+-+Lab/ipc.zip https://www.ce.yildiz.edu.tr/personal/cihan/file/1310/ipc.zip
 /opt/ytuce-files/cihan/%C4%B0%C5%9Fletim+Sistemleri+-+Lab/process.zip https://www.ce.yildiz.edu.tr/personal/cihan/file/1311/process.zip
 /opt/ytuce-files/cihan/%C4%B0%C5%9Fletim+Sistemleri+-+Lab/week1+-+process.pdf https://www.ce.yildiz.edu.tr/personal/cihan/file/1242/week1+-+process.pdf

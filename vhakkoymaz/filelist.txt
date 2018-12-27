@@ -26,14 +26,19 @@
 /opt/ytuce-files/vhakkoymaz/DSist/DS-chap-04bSockets.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/30219/DS-chap-04bSockets.ppt
 /opt/ytuce-files/vhakkoymaz/DSist/DS-chap-04bSockets.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/33780/DS-chap-04bSockets.ppt
 /opt/ytuce-files/vhakkoymaz/DSist/DS-chap-05aa-myPresentation_Of_Implementing+RPC_BirrellNelson.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/30555/DS-chap-05aa-myPresentation_Of_Implementing+RPC_BirrellNelson.ppt
+/opt/ytuce-files/vhakkoymaz/DSist/DS-chap-05aa-myPresentation_Of_Implementing+RPC_BirrellNelson.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/34117/DS-chap-05aa-myPresentation_Of_Implementing+RPC_BirrellNelson.ppt
 /opt/ytuce-files/vhakkoymaz/DSist/DS-chap-05aaOKUp39-birrell.pdf https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/30225/DS-chap-05aaOKUp39-birrell.pdf
 /opt/ytuce-files/vhakkoymaz/DSist/DS-chap-05aaOKUp39-birrell.pdf https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/33917/DS-chap-05aaOKUp39-birrell.pdf
 /opt/ytuce-files/vhakkoymaz/DSist/DS-chap-05aRPCProgrammingTR.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/30556/DS-chap-05aRPCProgrammingTR.ppt
 /opt/ytuce-files/vhakkoymaz/DSist/DS-chap-05aRPCProgrammingTR.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/33919/DS-chap-05aRPCProgrammingTR.ppt
 /opt/ytuce-files/vhakkoymaz/DSist/DS-chap-06NamingServicesTRa.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/30532/DS-chap-06NamingServicesTRa.ppt
+/opt/ytuce-files/vhakkoymaz/DSist/DS-chap-06NamingServicesTRa.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/34120/DS-chap-06NamingServicesTRa.ppt
 /opt/ytuce-files/vhakkoymaz/DSist/DS-chap-06NamingServicesTRb.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/30704/DS-chap-06NamingServicesTRb.ppt
+/opt/ytuce-files/vhakkoymaz/DSist/DS-chap-06NamingServicesTRb.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/34121/DS-chap-06NamingServicesTRb.ppt
 /opt/ytuce-files/vhakkoymaz/DSist/DS-Chap13-TransactionsTR.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/30706/DS-Chap13-TransactionsTR.ppt
+/opt/ytuce-files/vhakkoymaz/DSist/DS-Chap13-TransactionsTR.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/34164/DS-Chap13-TransactionsTR.ppt
 /opt/ytuce-files/vhakkoymaz/DSist/DS-Security.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/30707/DS-Security.ppt
+/opt/ytuce-files/vhakkoymaz/DSist/DS-Security.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/34172/DS-Security.ppt
 /opt/ytuce-files/vhakkoymaz/DSist/English/Lec1-Introduction.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/33401/Lec1-Introduction.ppt
 /opt/ytuce-files/vhakkoymaz/DSist/English/Lec3_Sockets.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/33409/Lec3_Sockets.ppt
 /opt/ytuce-files/vhakkoymaz/DSist/lsp82.pdf https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/30709/lsp82.pdf
@@ -79,6 +84,8 @@
 /opt/ytuce-files/vhakkoymaz/VTLisans/07a-FonksBag.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/30343/07a-FonksBag.ppt
 /opt/ytuce-files/vhakkoymaz/VTLisans/07a-FonksBag.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/33960/07a-FonksBag.ppt
 /opt/ytuce-files/vhakkoymaz/VTLisans/08a-DBProgMe.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/30634/08a-DBProgMe.ppt
+/opt/ytuce-files/vhakkoymaz/VTLisans/08a-DBProgMe.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/34125/08a-DBProgMe.ppt
+/opt/ytuce-files/vhakkoymaz/VTLisans/08b-DBProgPHPme.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/34147/08b-DBProgPHPme.ppt
 /opt/ytuce-files/vhakkoymaz/VTLisans/08b-DBProgPHP.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/30636/08b-DBProgPHP.ppt
 /opt/ytuce-files/vhakkoymaz/VTModTas/01a-Giris.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/29796/01a-Giris.ppt
 /opt/ytuce-files/vhakkoymaz/VTModTas/01a-Giris.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/29932/01a-Giris.ppt
@@ -96,3 +103,4 @@
 /opt/ytuce-files/vhakkoymaz/VTOzelKonular/A-Ch21a.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/33132/A-Ch21a.ppt
 /opt/ytuce-files/vhakkoymaz/VTOzelKonular/B-Ch21b.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/33435/B-Ch21b.ppt
 /opt/ytuce-files/vhakkoymaz/VTOzelKonular/C2-Ch22%28English%29.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/33439/C2-Ch22%28English%29.ppt
+/opt/ytuce-files/vhakkoymaz/VTOzelKonular/E-Ch24a.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/34152/E-Ch24a.ppt

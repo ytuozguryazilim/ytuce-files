@@ -17,6 +17,7 @@
 /opt/ytuce-files/zeyneb/BLM2031_Yap%C4%B1salProglama_20181/proje_tanimi.pdf https://www.ce.yildiz.edu.tr/personal/zeyneb/file/34028/proje_tanimi.pdf
 /opt/ytuce-files/zeyneb/BLM2031_Yap%C4%B1salProglama_20181/Yap%C4%B1salProgramlamaLabGrups.pdf https://www.ce.yildiz.edu.tr/personal/zeyneb/file/33395/Yap%C4%B1salProgramlamaLabGrups.pdf
 /opt/ytuce-files/zeyneb/BLM2051_Seminer_20181/Hafta10_ek_icerik_yasamboyu_ogrn.pdf https://www.ce.yildiz.edu.tr/personal/zeyneb/file/33791/Hafta10_ek_icerik_yasamboyu_ogrn.pdf
+/opt/ytuce-files/zeyneb/BLM2051_Seminer_20181/Hafta14_BLM2051-Seminer-ZK_girisimcilik.pdf https://www.ce.yildiz.edu.tr/personal/zeyneb/file/34177/Hafta14_BLM2051-Seminer-ZK_girisimcilik.pdf
 /opt/ytuce-files/zeyneb/BLM2051_Seminer_20181/Hafta1_BLM2051_Seminer_ZK.pdf https://www.ce.yildiz.edu.tr/personal/zeyneb/file/33005/Hafta1_BLM2051_Seminer_ZK.pdf
 /opt/ytuce-files/zeyneb/BLM2051_Seminer_20181/Hafta2_BLM2051-Seminer-ZK.pdf https://www.ce.yildiz.edu.tr/personal/zeyneb/file/33008/Hafta2_BLM2051-Seminer-ZK.pdf
 /opt/ytuce-files/zeyneb/BLM2051_Seminer_20181/Hafta3_BLM2051-Seminer-ZK.pdf https://www.ce.yildiz.edu.tr/personal/zeyneb/file/33059/Hafta3_BLM2051-Seminer-ZK.pdf

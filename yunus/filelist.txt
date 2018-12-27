@@ -1,6 +1,7 @@
 /opt/ytuce-files/yunus/BLM1551+Bilg.+Bil.+Gir.+1/BBG1-2015-1.pdf https://www.ce.yildiz.edu.tr/personal/yunus/file/12741/BBG1-2015-1.pdf
 /opt/ytuce-files/yunus/BLM1551+Bilg.+Bil.+Gir.+1/deneme.html https://www.ce.yildiz.edu.tr/personal/yunus/file/32599/deneme.html
 /opt/ytuce-files/yunus/BLM2051+Seminer/BLM2051-Seminer-YES-ZK.pdf https://www.ce.yildiz.edu.tr/personal/yunus/file/33096/BLM2051-Seminer-YES-ZK.pdf
+/opt/ytuce-files/yunus/BLM2051+Seminer/BLM2051-Seminer-YES-ZK-v3.pdf https://www.ce.yildiz.edu.tr/personal/yunus/file/34181/BLM2051-Seminer-YES-ZK-v3.pdf
 /opt/ytuce-files/yunus/BLM2562+Nes.+Day.+Prog./kodlar.rar https://www.ce.yildiz.edu.tr/personal/yunus/file/6531/kodlar.rar
 /opt/ytuce-files/yunus/BLM2562+Nes.+Day.+Prog./Not-OOP-00-06.pdf https://www.ce.yildiz.edu.tr/personal/yunus/file/28409/Not-OOP-00-06.pdf
 /opt/ytuce-files/yunus/BLM2562+Nes.+Day.+Prog./Not-OOP-00-06.pdf https://www.ce.yildiz.edu.tr/personal/yunus/file/31114/Not-OOP-00-06.pdf
