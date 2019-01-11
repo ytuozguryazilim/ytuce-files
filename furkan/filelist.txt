@@ -6,10 +6,13 @@
 /opt/ytuce-files/furkan/Alt+Sev.+Prog./asm_ornekler_4.rar https://www.ce.yildiz.edu.tr/personal/furkan/file/33672/asm_ornekler_4.rar
 /opt/ytuce-files/furkan/Alt+Sev.+Prog./asm_ornekler_5.rar https://www.ce.yildiz.edu.tr/personal/furkan/file/33956/asm_ornekler_5.rar
 /opt/ytuce-files/furkan/Alt+Sev.+Prog./asm_ornekler_6.rar https://www.ce.yildiz.edu.tr/personal/furkan/file/34065/asm_ornekler_6.rar
+/opt/ytuce-files/furkan/Alt+Sev.+Prog./ASP20181-%C3%96devNotlar%C4%B1.pdf https://www.ce.yildiz.edu.tr/personal/furkan/file/34327/ASP20181-%C3%96devNotlar%C4%B1.pdf
 /opt/ytuce-files/furkan/Alt+Sev.+Prog./asp_slayt13.pdf https://www.ce.yildiz.edu.tr/personal/furkan/file/34162/asp_slayt13.pdf
 /opt/ytuce-files/furkan/Alt+Sev.+Prog./asp_slayt1.pdf https://www.ce.yildiz.edu.tr/personal/furkan/file/33425/asp_slayt1.pdf
 /opt/ytuce-files/furkan/Alt+Sev.+Prog./asp_slayt8.pdf https://www.ce.yildiz.edu.tr/personal/furkan/file/33676/asp_slayt8.pdf
 /opt/ytuce-files/furkan/Alt+Sev.+Prog./assembler+%2B+linker+%2B+debegger.rar https://www.ce.yildiz.edu.tr/personal/furkan/file/33418/assembler+%2B+linker+%2B+debegger.rar
+/opt/ytuce-files/furkan/Alt+Sev.+Prog./Assembly+-+C+Uygulamas%C4%B1.pdf https://www.ce.yildiz.edu.tr/personal/furkan/file/34296/Assembly+-+C+Uygulamas%C4%B1.pdf
+/opt/ytuce-files/furkan/Alt+Sev.+Prog./%C3%B6dev2.pdf https://www.ce.yildiz.edu.tr/personal/furkan/file/34225/%C3%B6dev2.pdf
 /opt/ytuce-files/furkan/BBG2-2015-2/20152_BBG2_quiz1.c https://www.ce.yildiz.edu.tr/personal/furkan/file/20451/20152_BBG2_quiz1.c
 /opt/ytuce-files/furkan/BBG2-2015-2/20152_BBG2_quiz2.rar https://www.ce.yildiz.edu.tr/personal/furkan/file/21221/20152_BBG2_quiz2.rar
 /opt/ytuce-files/furkan/BBG2-2015-2/20152_BBG2_quiz3.rar https://www.ce.yildiz.edu.tr/personal/furkan/file/22171/20152_BBG2_quiz3.rar
@@ -110,6 +113,7 @@
 /opt/ytuce-files/furkan/VT20181/vt2018-1+Lab+Dok.+5.+Hafta.pdf https://www.ce.yildiz.edu.tr/personal/furkan/file/33652/vt2018-1+Lab+Dok.+5.+Hafta.pdf
 /opt/ytuce-files/furkan/VT20181/vt2018-1+Lab+Dok.+6.+Hafta.pdf https://www.ce.yildiz.edu.tr/personal/furkan/file/33864/vt2018-1+Lab+Dok.+6.+Hafta.pdf
 /opt/ytuce-files/furkan/VT20181/vt2018-1+Lab+Dok.+7.+Hafta.pdf https://www.ce.yildiz.edu.tr/personal/furkan/file/34077/vt2018-1+Lab+Dok.+7.+Hafta.pdf
+/opt/ytuce-files/furkan/VT20181/VT-Gr2%28UK%29-LaboD%C3%B6nemSonuNotListesi.pdf https://www.ce.yildiz.edu.tr/personal/furkan/file/34300/VT-Gr2%28UK%29-LaboD%C3%B6nemSonuNotListesi.pdf
 /opt/ytuce-files/furkan/VT20181/VT-Gr2%28UK%29-YoklamaListesi.pdf https://www.ce.yildiz.edu.tr/personal/furkan/file/34019/VT-Gr2%28UK%29-YoklamaListesi.pdf
 /opt/ytuce-files/furkan/VT20181/VT-Gr2%28UK%29-YoklamaVeQuizNotlar%C4%B1Listesi.pdf https://www.ce.yildiz.edu.tr/personal/furkan/file/33461/VT-Gr2%28UK%29-YoklamaVeQuizNotlar%C4%B1Listesi.pdf
 /opt/ytuce-files/furkan/VT20181/VT_Lab1_Sunum.pdf https://www.ce.yildiz.edu.tr/personal/furkan/file/33181/VT_Lab1_Sunum.pdf

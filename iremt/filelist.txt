@@ -65,12 +65,16 @@
 /opt/ytuce-files/iremt/BLM2031/threadMatrixFill.c https://www.ce.yildiz.edu.tr/personal/iremt/file/34213/threadMatrixFill.c
 /opt/ytuce-files/iremt/BLM2031/threadMatrixMultiplication.c https://www.ce.yildiz.edu.tr/personal/iremt/file/34217/threadMatrixMultiplication.c
 /opt/ytuce-files/iremt/BLM2031/unionSample.c https://www.ce.yildiz.edu.tr/personal/iremt/file/33916/unionSample.c
+/opt/ytuce-files/iremt/BLM2031/YP_P1.txt https://www.ce.yildiz.edu.tr/personal/iremt/file/34279/YP_P1.txt
+/opt/ytuce-files/iremt/BLM2031/YP_P2.txt https://www.ce.yildiz.edu.tr/personal/iremt/file/34291/YP_P2.txt
+/opt/ytuce-files/iremt/BLM2031/YP_P3.txt https://www.ce.yildiz.edu.tr/personal/iremt/file/34287/YP_P3.txt
 /opt/ytuce-files/iremt/ENF1190/carpimTablosu.c https://www.ce.yildiz.edu.tr/personal/iremt/file/33583/carpimTablosu.c
 /opt/ytuce-files/iremt/ENF1190/Ders2Part1.pdf https://www.ce.yildiz.edu.tr/personal/iremt/file/33026/Ders2Part1.pdf
 /opt/ytuce-files/iremt/ENF1190/Ders2Part2.pdf https://www.ce.yildiz.edu.tr/personal/iremt/file/33028/Ders2Part2.pdf
 /opt/ytuce-files/iremt/ENF1190/Ders2Part3.pdf https://www.ce.yildiz.edu.tr/personal/iremt/file/33030/Ders2Part3.pdf
 /opt/ytuce-files/iremt/ENF1190/Ders3HIT.pdf https://www.ce.yildiz.edu.tr/personal/iremt/file/33127/Ders3HIT.pdf
 /opt/ytuce-files/iremt/ENF1190/dikdortgen.c https://www.ce.yildiz.edu.tr/personal/iremt/file/33585/dikdortgen.c
+/opt/ytuce-files/iremt/ENF1190/DonemProjesi.pdf https://www.ce.yildiz.edu.tr/personal/iremt/file/34308/DonemProjesi.pdf
 /opt/ytuce-files/iremt/ENF1190/IntoductionPart1.pdf https://www.ce.yildiz.edu.tr/personal/iremt/file/32968/IntoductionPart1.pdf
 /opt/ytuce-files/iremt/ENF1190/IntoductionPart2.pdf https://www.ce.yildiz.edu.tr/personal/iremt/file/32975/IntoductionPart2.pdf
 /opt/ytuce-files/iremt/ENF1190/kamyonaPaketYukle.c https://www.ce.yildiz.edu.tr/personal/iremt/file/33724/kamyonaPaketYukle.c

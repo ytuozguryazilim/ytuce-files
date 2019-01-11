@@ -14,6 +14,7 @@
 /opt/ytuce-files/vhakkoymaz/CompArch/Ch_6.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/32523/Ch_6.ppt
 /opt/ytuce-files/vhakkoymaz/CompArch/Ch_7.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/32527/Ch_7.ppt
 /opt/ytuce-files/vhakkoymaz/DSist/DS-0Admin.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/30115/DS-0Admin.ppt
+/opt/ytuce-files/vhakkoymaz/DSist/DS-BLM4760_Gr1Devam.pdf https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/34292/DS-BLM4760_Gr1Devam.pdf
 /opt/ytuce-files/vhakkoymaz/DSist/DS-%C3%96dev2a.pdf https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/30254/DS-%C3%96dev2a.pdf
 /opt/ytuce-files/vhakkoymaz/DSist/DS-%C3%96dev3.pdf https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/30333/DS-%C3%96dev3.pdf
 /opt/ytuce-files/vhakkoymaz/DSist/DS-chap-01.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/30116/DS-chap-01.ppt
@@ -55,6 +56,7 @@
 /opt/ytuce-files/vhakkoymaz/Seminer/BLM2051-Seminer-S3.pptx https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/33152/BLM2051-Seminer-S3.pptx
 /opt/ytuce-files/vhakkoymaz/Seminer/msw_a4_format_nov12.doc https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/2779/msw_a4_format_nov12.doc
 /opt/ytuce-files/vhakkoymaz/Seminer/Sem-BLM2051_Gr1SunumTakvimi.pdf https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/33117/Sem-BLM2051_Gr1SunumTakvimi.pdf
+/opt/ytuce-files/vhakkoymaz/Seminer/Sem-BLM4760_Gr1FinalDevam.pdf https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/34252/Sem-BLM4760_Gr1FinalDevam.pdf
 /opt/ytuce-files/vhakkoymaz/Seminer/Sem%C3%96neriSonu%C3%A7lar%C4%B1.xls https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/2547/Sem%C3%96neriSonu%C3%A7lar%C4%B1.xls
 /opt/ytuce-files/vhakkoymaz/Seminer/Seminer+Tanitim+Sunusu-20132.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/2781/Seminer+Tanitim+Sunusu-20132.ppt
 /opt/ytuce-files/vhakkoymaz/Seminer/SemNotlarFinal.pdf https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/3144/SemNotlarFinal.pdf
@@ -87,6 +89,8 @@
 /opt/ytuce-files/vhakkoymaz/VTLisans/08a-DBProgMe.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/34125/08a-DBProgMe.ppt
 /opt/ytuce-files/vhakkoymaz/VTLisans/08b-DBProgPHPme.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/34147/08b-DBProgPHPme.ppt
 /opt/ytuce-files/vhakkoymaz/VTLisans/08b-DBProgPHP.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/30636/08b-DBProgPHP.ppt
+/opt/ytuce-files/vhakkoymaz/VTLisans/08b-DBProgXML.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/34223/08b-DBProgXML.ppt
+/opt/ytuce-files/vhakkoymaz/VTLisans/D-Ch12XML.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/34227/D-Ch12XML.ppt
 /opt/ytuce-files/vhakkoymaz/VTModTas/01a-Giris.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/29796/01a-Giris.ppt
 /opt/ytuce-files/vhakkoymaz/VTModTas/01a-Giris.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/29932/01a-Giris.ppt
 /opt/ytuce-files/vhakkoymaz/VTModTas/02a-ER-UML.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/29799/02a-ER-UML.ppt
@@ -103,4 +107,5 @@
 /opt/ytuce-files/vhakkoymaz/VTOzelKonular/A-Ch21a.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/33132/A-Ch21a.ppt
 /opt/ytuce-files/vhakkoymaz/VTOzelKonular/B-Ch21b.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/33435/B-Ch21b.ppt
 /opt/ytuce-files/vhakkoymaz/VTOzelKonular/C2-Ch22%28English%29.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/33439/C2-Ch22%28English%29.ppt
+/opt/ytuce-files/vhakkoymaz/VTOzelKonular/D-Ch12XML.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/34230/D-Ch12XML.ppt
 /opt/ytuce-files/vhakkoymaz/VTOzelKonular/E-Ch24a.ppt https://www.ce.yildiz.edu.tr/personal/vhakkoymaz/file/34152/E-Ch24a.ppt

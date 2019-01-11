@@ -1,0 +1,35 @@
+PROCEDURE bubble_sort(arr_ip, n_i)
+BEGIN
+       FOR  i_i <- 0..(n_i - 1) LOOP
+       BEGIN
+           FOR  j_i <- 0..(n_i - i_i - 1) LOOP
+           BEGIN
+               IF (arr_ip[j_i] > arr_ip[j_i + 1]) THEN
+               BEGIN
+	           tmp_i <- arr_ip[j_i]
+		   arr_ip[j_i] <- arr_ip[j_i + 1]
+		   arr_ip[j_i + 1] <- tmp_i
+               END
+          END
+       END 
+       RETURN VOID
+END
+
+PROCEDURE MAIN()
+BEGIN
+       PRINT_LINE "Dizinin eleman sayisini giriniz"
+       GET_VAL "$n_i"
+       PRINT_LINE "Dizinin elemanlarini giriniz"
+       FOR  k_i <- 0..n_i LOOP
+       BEGIN
+           GET_VAL "$arr_i[k_i]"
+       END
+       bubble_sort(arr_i, n_i)
+
+       PRINT_LINE "$n_i elemanli dizi siralanmistir. Siralanan dizi soyledir:"
+       FOR  k_i <- 0..n_i LOOP
+       BEGIN
+           PRINT_LINE "$arr_i[k_i]"
+       END
+
+END

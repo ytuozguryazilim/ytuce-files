@@ -1,0 +1,15 @@
+PROCEDURE MAIN() 
+BEGIN 
+	kelime_c[]<-"YapisalProgramlama"
+	GET_VAL "$m_i" 
+	l_i<-0
+	WHILE (kelime_c[m_i] NOT_EQUAL 0) DO
+	BEGIN
+		kelimeCopy_c[l_i] <- kelime[m_i]
+		m_i <- m_i+1
+		l_i <- l_i+1
+	END
+
+	kelimeCopy_c[l_i] <- kelime[m_i]
+	PRINT_LINE "$kelimeCopy_c[]"
+END

@@ -60,8 +60,10 @@
 /opt/ytuce-files/erkan/2018+Bahar+Devre+Teorisi/%C3%B6dev+3.pdf https://www.ce.yildiz.edu.tr/personal/erkan/file/34021/%C3%B6dev+3.pdf
 /opt/ytuce-files/erkan/2018+Bahar+Devre+Teorisi/ders+tan%C4%B1t%C4%B1m+-+devre.docx https://www.ce.yildiz.edu.tr/personal/erkan/file/33208/ders+tan%C4%B1t%C4%B1m+-+devre.docx
 /opt/ytuce-files/erkan/2018+Bahar+Devre+Teorisi/devre+vize.xlsx https://www.ce.yildiz.edu.tr/personal/erkan/file/33891/devre+vize.xlsx
+/opt/ytuce-files/erkan/2018+Bahar+Devre+Teorisi/devre+vize.xlsx https://www.ce.yildiz.edu.tr/personal/erkan/file/34260/devre+vize.xlsx
 /opt/ytuce-files/erkan/2018+Bahar+Mikroi%C5%9Flemci+Sistemleri/arayuzler.pdf https://www.ce.yildiz.edu.tr/personal/erkan/file/33707/arayuzler.pdf
 /opt/ytuce-files/erkan/2018+Bahar+Mikroi%C5%9Flemci+Sistemleri/ders+tan%C4%B1t%C4%B1m.docx https://www.ce.yildiz.edu.tr/personal/erkan/file/33213/ders+tan%C4%B1t%C4%B1m.docx
+/opt/ytuce-files/erkan/2018+Bahar+Mikroi%C5%9Flemci+Sistemleri/M%C4%B0KROV%C4%B0ZE2+cevaplar.pdf https://www.ce.yildiz.edu.tr/personal/erkan/file/34262/M%C4%B0KROV%C4%B0ZE2+cevaplar.pdf
 /opt/ytuce-files/erkan/2018+Bahar+Mikroi%C5%9Flemci+Sistemleri/mikro_2018_1_vize1_cevaplar.pdf https://www.ce.yildiz.edu.tr/personal/erkan/file/33784/mikro_2018_1_vize1_cevaplar.pdf
 /opt/ytuce-files/erkan/2018+Bahar+Mikroi%C5%9Flemci+Sistemleri/mikro+vize1.xlsx https://www.ce.yildiz.edu.tr/personal/erkan/file/33931/mikro+vize1.xlsx
 /opt/ytuce-files/erkan/2018+Bahar+Mikroi%C5%9Flemci+Sistemleri/mikro_vize2.xlsx https://www.ce.yildiz.edu.tr/personal/erkan/file/34189/mikro_vize2.xlsx
